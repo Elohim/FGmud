@@ -1,0 +1,16 @@
+#/secure/daemon/imc2.c
+PersistentInventory 0
+PersistentInventoryEnabled 0
+tmpstr 0
+host "70.138.193.240"
+who_str "Forgotten-Gods*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*[ARCH][ELDER]:  First Admin Elo'him%^RESET%^*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*                    There is one member of our reality.                    http://dead-souls.nettelnet://70.138.193.240:6690___________________________________________________________________________"
+mode 2
+autodisabled 0
+ping_requests ([])
+buf ""
+server_version 0
+localchaninfo ([])
+mudinfo ([])
+genders ([])
+tells ([])
+sequence 0
