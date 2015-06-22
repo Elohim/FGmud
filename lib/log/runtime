@@ -25,3 +25,662 @@ Autoexec daemon run complete. (20ms)
 
  (Performance score: Excellent.)
 
+
+Running autoexec, please wait...
+Autoexec daemon run complete. (36ms)
+
+ (Performance score: Excellent.)
+
+
+Running autoexec, please wait...
+Autoexec daemon run complete. (16ms)
+
+ (Performance score: Excellent.)
+
+e 0
+'cmdAll' at /secure/save/creators/e/elohim (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/eval at line 79
+
+--- Forgotten-Gods
+2015.06.21-16.26,25
+*Error in loading object '/secure/tmp/elohim_CMD_EVAL_TMP_FILE'
+Object: /secure/cmds/creators/eval at line 79
+
+'<fake>' at /secure/save/creators/e/elohim (/<driver>) at line 0
+'cmdAll' at /secure/save/creators/e/elohim (/lib/command.c) at line 231
+'cmd' at /secure/cmds/creators/eval at line 79
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/npc/tree#244 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/npc/tree#244 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/npc/tree#244 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/npc/tree#244 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/npc/tree#244 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/npc/tree#244 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/npc/fighter#380 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/npc/fighter#380 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/npc/dummy#384 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/npc/dummy#384 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/npc/dummy#384 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/npc/dummy#384 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/npc/dummy#384 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/npc/dummy#384 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/segata#528 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/segata#528 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/priest#537 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/priest#537 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/lars#565 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/lars#565 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,43
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,44
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/campus/npc/turret#231 at line 154
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/npc.c) at line 123
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/race.c) at line 357
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/campus/npc/turret#231 (/lib/body.c) at line 225
+'GetRespiration' at /domains/campus/npc/turret#231 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,44
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,44
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,44
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,44
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1050 at line 123
+'heart_beat' at /lib/npc#1050 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1050 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1050 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1050 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1050 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /secure/save/creators/e/elohim (/lib/player.c) at line 62
+'heart_beat' at /secure/save/creators/e/elohim (/lib/combat.c) at line 1148
+'heart_beat' at /secure/save/creators/e/elohim (/lib/race.c) at line 357
+'heart_beat' at /secure/save/creators/e/elohim (/lib/body.c) at line 322
+'eventCheckEnvironment' at /secure/save/creators/e/elohim (/lib/body.c) at line 225
+'GetRespiration' at /secure/save/creators/e/elohim (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1029 at line 123
+'heart_beat' at /lib/npc#1029 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1029 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1029 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1029 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1029 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1049 at line 123
+'heart_beat' at /lib/npc#1049 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1049 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1049 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1049 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1049 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.37,45
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1051 at line 123
+'heart_beat' at /lib/npc#1051 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1051 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1051 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1051 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1051 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,56
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/campus/npc/turret#231 at line 154
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/npc.c) at line 123
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/race.c) at line 357
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/campus/npc/turret#231 (/lib/body.c) at line 225
+'GetRespiration' at /domains/campus/npc/turret#231 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,56
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,56
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,56
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,56
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1050 at line 123
+'heart_beat' at /lib/npc#1050 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1050 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1050 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1050 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1050 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /secure/save/creators/e/elohim (/lib/player.c) at line 62
+'heart_beat' at /secure/save/creators/e/elohim (/lib/combat.c) at line 1148
+'heart_beat' at /secure/save/creators/e/elohim (/lib/race.c) at line 357
+'heart_beat' at /secure/save/creators/e/elohim (/lib/body.c) at line 322
+'eventCheckEnvironment' at /secure/save/creators/e/elohim (/lib/body.c) at line 225
+'GetRespiration' at /secure/save/creators/e/elohim (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1029 at line 123
+'heart_beat' at /lib/npc#1029 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1029 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1029 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1029 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1029 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1049 at line 123
+'heart_beat' at /lib/npc#1049 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1049 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1049 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1049 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1049 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,57
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1051 at line 123
+'heart_beat' at /lib/npc#1051 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1051 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1051 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1051 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1051 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/campus/npc/turret#231 at line 154
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/npc.c) at line 123
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/race.c) at line 357
+'heart_beat' at /domains/campus/npc/turret#231 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/campus/npc/turret#231 (/lib/body.c) at line 225
+'GetRespiration' at /domains/campus/npc/turret#231 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/npc/tree#244 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/npc/tree#244 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/npc/tree#244 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/npc/tree#244 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/npc/tree#244 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/npc/tree#244 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/campus/npc/kleiner#323 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/campus/npc/kleiner#323 (/lib/npc.c) at line 123
+'heart_beat' at /domains/campus/npc/kleiner#323 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/campus/npc/kleiner#323 (/lib/race.c) at line 357
+'heart_beat' at /domains/campus/npc/kleiner#323 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/campus/npc/kleiner#323 (/lib/body.c) at line 225
+'GetRespiration' at /domains/campus/npc/kleiner#323 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/npc/fighter#380 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/npc/fighter#380 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/npc/fighter#380 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/npc.c) at line 123
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 357
+'heart_beat' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/default/vehicle/strider#522 (/lib/body.c) at line 225
+'GetRespiration' at /domains/default/vehicle/strider#522 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/segata#528 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/segata#528 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/segata#528 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/roshd#531 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/roshd#531 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/priest#537 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/priest#537 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/priest#537 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/lars#565 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/lars#565 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/lars#565 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Ylsrim/npc/traveler#569 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Ylsrim/npc/traveler#569 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Ylsrim/npc/traveler#569 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Ylsrim/npc/traveler#569 (/lib/race.c) at line 357
+'heart_beat' at /domains/Ylsrim/npc/traveler#569 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Ylsrim/npc/traveler#569 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Ylsrim/npc/traveler#569 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#699 at line 123
+'heart_beat' at /lib/npc#699 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#699 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#699 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#699 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#699 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1027 at line 123
+'heart_beat' at /lib/npc#1027 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1027 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1027 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1027 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1027 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1028 at line 123
+'heart_beat' at /lib/npc#1028 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1028 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1028 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1028 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1028 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1030 at line 123
+'heart_beat' at /lib/npc#1030 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1030 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1030 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1030 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1030 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1031 at line 123
+'heart_beat' at /lib/npc#1031 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1031 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1031 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1031 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1031 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /lib/npc#1050 at line 123
+'heart_beat' at /lib/npc#1050 (/lib/combat.c) at line 1148
+'heart_beat' at /lib/npc#1050 (/lib/race.c) at line 357
+'heart_beat' at /lib/npc#1050 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /lib/npc#1050 (/lib/body.c) at line 225
+'GetRespiration' at /lib/npc#1050 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190
+
+--- Forgotten-Gods
+2015.06.21-16.53,58
+*Value being indexed is zero.
+Object: /daemon/races at line 190
+
+'heart_beat' at /domains/Roses/npc/roses_banker#1103 (/lib/sentient.c) at line 451
+'heart_beat' at /domains/Roses/npc/roses_banker#1103 (/lib/npc.c) at line 123
+'heart_beat' at /domains/Roses/npc/roses_banker#1103 (/lib/combat.c) at line 1148
+'heart_beat' at /domains/Roses/npc/roses_banker#1103 (/lib/race.c) at line 357
+'heart_beat' at /domains/Roses/npc/roses_banker#1103 (/lib/body.c) at line 322
+'eventCheckEnvironment' at /domains/Roses/npc/roses_banker#1103 (/lib/body.c) at line 225
+'GetRespiration' at /domains/Roses/npc/roses_banker#1103 (/lib/race.c) at line 28
+'GetRaceRespirationType' at /daemon/races at line 190

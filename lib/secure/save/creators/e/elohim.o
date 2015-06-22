@@ -10,26 +10,27 @@ CapName "Elo'him"
 ExternalDesc "$N is nondescript."
 Invisible 0
 Items ([])
-Properties (["wizmapping":1,"minimapping":0,"pwb_room":"/realms/elohim/workroom","LastLocation":"/realms/elohim/workroom",])
-Inventory ({"([\"Value\":0,\"Keys\":({}),\"Worn\":({\"torso\",}),\"Broken\":0,\"Deterioration\":0,\"Poison\":0,\"LockStrength\":0,\"Persist\":1,\"Mass\":200,\"Locked\":0,\"#base_name#\":\"/domains/default/armor/robe\",\"Cost\":10000,\"Properties\":([\"gamma\":3,\"no steal\":1,]),\"#inventory#\":({}),])","([\"Value\":0,\"Mass\":50,\"Worn\":({\"head\",}),\"#base_name#\":\"/domains/default/armor/wizard_hat\",\"Deterioration\":0,\"Broken\":0,\"Cost\":50000,\"Properties\":([\"beta\":2,]),\"Poison\":0,])","([\"Wielded\":0,\"Value\":0,\"Class\":100,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":100,\"#base_name#\":\"/secure/obj/staff\",\"Cost\":0,\"Properties\":([\"no steal\":1,]),])","([\"Wielded\":0,\"Value\":0,\"Class\":1,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":20,\"#base_name#\":\"/domains/default/obj/guide\",\"Cost\":1000,\"Properties\":([]),])","([\"Wielded\":0,\"Value\":0,\"Class\":1,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":3,\"#base_name#\":\"/domains/default/obj/handbook\",\"Cost\":1000,\"Properties\":([\"no steal\":1,]),])",})
+Properties (["wizmapping":1,"EdWarned":1,"minimapping":0,"LastLocation":"/domains/Ylsrim/room/kaliid4","pwb_room":"/domains/Ylsrim/room/kaliid4",])
+ItemMaterials 0
+Inventory ({"([\"Wielded\":0,\"Value\":0,\"Class\":1,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":3,\"#base_name#\":\"/domains/default/obj/handbook\",\"Cost\":1000,\"Properties\":([\"no steal\":1,]),])","([\"Wielded\":0,\"Value\":0,\"Class\":1,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":20,\"#base_name#\":\"/domains/default/obj/guide\",\"Cost\":1000,\"Properties\":([]),])","([\"Wielded\":0,\"Value\":0,\"Class\":100,\"Worn\":0,\"Deterioration\":0,\"Broken\":0,\"Poison\":0,\"Mass\":100,\"#base_name#\":\"/secure/obj/staff\",\"Cost\":0,\"Properties\":([\"no steal\":1,]),])","([\"Value\":0,\"Mass\":50,\"Worn\":({\"head\",}),\"#base_name#\":\"/domains/default/armor/wizard_hat\",\"Deterioration\":0,\"Broken\":0,\"Cost\":50000,\"Properties\":([\"beta\":2,]),\"Poison\":0,])","([\"Value\":0,\"Keys\":({}),\"Worn\":({\"torso\",}),\"Broken\":0,\"Deterioration\":0,\"Poison\":0,\"LockStrength\":0,\"Persist\":1,\"Mass\":200,\"Locked\":0,\"#base_name#\":\"/domains/default/armor/robe\",\"Cost\":10000,\"Properties\":([\"gamma\":3,\"no steal\":1,]),\"#inventory#\":({}),])",})
 anchored 0
-Messages (["telin":"$N teleports in.","telout":"$N teleports away.","leave":"$N leaves $D.","vis":"$N appears.","invis":"$N disappears.","home":"$N goes home.","dest":"$N dests $O.","come":"$N enters.","clone":"$N clones $O.",])
+Messages (["telin":"$N teleports in.","leave":"$N leaves $D.","telout":"$N teleports away.","vis":"$N appears.","home":"$N goes home.","invis":"$N disappears.","come":"$N enters.","dest":"$N dests $O.","clone":"$N clones $O.",])
 RestrictedChannels ({})
 NoChanColors 0
-GagMutes (["remote_gag":0,"remote_mute":0,"local_mute":0,"local_gag":0,])
+GagMutes (["remote_mute":0,"remote_gag":0,"local_mute":0,"local_gag":0,])
 Paused 0
-localcmds ({"priv","privacy","parserefresh","quit","work","pwd","cwd","popd","pushd","nmsh","cd","nickname","unalias","alias","",})
-parsed_command "quit"
+localcmds ({"parserefresh","quit","work","pwd","cwd","popd","pushd","nmsh","cd","nickname","unalias","alias","",})
+parsed_command ""
 HistorySize 50
-History ([20:"quit",19:"go out",18:"exit",17:"liveupgrade apply",16:"liveupgrade all",15:"warmboot",14:"mudconfig websourcename dead-souls.net",13:"mudconfig websourceip 97.107.133.86",12:"boards",11:"uptime",10:"people",9:"source /realms/elohim/.profile",8:"shutdown now",7:"mudconfig mudport 6690",6:"mudconfig mudname Forgotten-Gods",5:"mudconfig locked yes",4:"mudconfig",3:"wear hat",2:"wear robe",1:"home",0:"cd",])
+History ([50:"update -r armor/*",49:"update -r armor/SimpleBootL.c",48:"warmboot",47:"more armor/SimpleBootL.c",46:"update armor/SimpleBootL.c",45:"update /lib/comp/object.c",44:"cat /include/materials.h",43:"ls /include/",42:"ed armor/SimpleBootL.c",41:"ls armor/SimpleBootL.c",40:"cp /lib/comp/object.c /lib/comp/object.c.20150621",39:"channels",38:"history",37:"update armor/*",36:"l",35:"more /secure/include/dirs.h",34:"more /secure/include/props.h",33:"more /lib/secure/include/props.h",32:"more /usr/games/mud/lib/secure/include/props.h",31:"more /domains/Roses/armor/SimpleGloveL.c",30:"more /domains/Roses/armor/SimpleGloveL",29:"update meals/fish/*",28:"ls meals",27:"update meals/*",26:"ls",25:"cd /domains/Roses",24:"domains",23:"update /domains/Roses/room/*",22:"addraces",21:"removeraces",20:"cat /include/damage_types.h",19:"ls /include",18:"update /domains/Roses/*",17:"look traveler",16:"l traveler",15:"update -r /domains/Ylsrim/room/kaliid5.c",14:"eval return file(environment(TP))",13:"eval return file(evironment(TP))",12:"peer east",11:"dial tower",10:"look stargate",9:"l stargate",8:"enter portal",7:"enter startgate",6:"read sign",5:"ls /domains/default/room/",4:"ls /domains/default/",3:"ls /domains/",2:"boards",1:"uptime",0:"people",])
 Nicknames ([])
-Aliases (["east":"go east","mwhere":"findobj $*","southeast":"go southeast","northeast":"go northeast","prac":"skills","sco":"score","x":"look at $*","w":"go west","u":"go up","t":"tell $*","out":"go out","practice":"skills","s":"go south","vnum":"help find","p":"people","south":"go south","north":"go north","n":"go north","bio":"biography","l":"look $*","k":"kill $*","west":"go west","zlist":"domains","southwest":"go southwest","northwest":"go northwest","i":"inventory","owhere":"findobj $*","e":"go east","d":"go down","c":"cre $*","alist":"ls /domains","inv":"inventory","nw":"go northwest","examine":"look at $*","trophy":"kills","up":"go up","chat":"newbie $*","dc":"dchat $*","exa":"look at $*","sw":"go southwest","ig":"intergossip $*","loot":"get all from $*","ic":"intercre $*","peace":"quell","inf":"score","lp":"lpuni $*","down":"go down","ne":"go northeast","exit":"go out","eq":"equipment","se":"go southeast","sc":"status",])
-Xverbs (["'":"say $*","]":"] $*","\"":"say $*",":":"emote $*",])
-Directories (["current":"/","home":0,"previous":"/",])
+Aliases (["east":"go east","northeast":"go northeast","southeast":"go southeast","mwhere":"findobj $*","prac":"skills","sco":"score","x":"look at $*","w":"go west","u":"go up","out":"go out","t":"tell $*","s":"go south","practice":"skills","vnum":"help find","p":"people","north":"go north","south":"go south","bio":"biography","n":"go north","l":"look $*","west":"go west","k":"kill $*","northwest":"go northwest","southwest":"go southwest","zlist":"domains","i":"inventory","owhere":"findobj $*","e":"go east","d":"go down","c":"cre $*","alist":"ls /domains","nw":"go northwest","inv":"inventory","examine":"look at $*","trophy":"kills","up":"go up","chat":"newbie $*","dc":"dchat $*","sw":"go southwest","exa":"look at $*","ig":"intergossip $*","loot":"get all from $*","ic":"intercre $*","peace":"quell","inf":"score","down":"go down","lp":"lpuni $*","ne":"go northeast","eq":"equipment","exit":"go out","se":"go southeast","sc":"status",])
+Xverbs (["'":"say $*","]":"] $*",":":"emote $*","\"":"say $*",])
+Directories (["current":"/domains/Roses","home":0,"previous":"/",])
 Prompt "cwd"
 Terminal "ansi"
 Blocked ([])
-Screen ({127,41,})
+Screen ({196,52,})
 MessageQueue 0
 PauseMessages 0
 annoyblock 0
@@ -38,15 +39,15 @@ BlockAnnoying 0
 Age 0
 WhereBlock 0
 Brief 0
-LoginTime 1434921865
+LoginTime 1434947152
 BirthTime 1434921394
 RescueBit 0
 Password "ojjjjnom!c`dhdigcgfificbgnhbefllkeac`keob"
 Email "elohim@technocratia.com"
 RealName "Nestor S. Sanchez"
 Rank "citizen"
-LoginSite "/realms/elohim/workroom"
-HostSite "10.0.1.19"
+LoginSite "/domains/Ylsrim/room/kaliid4"
+HostSite "10.0.1.77"
 WebPage 0
 News (["admin":1248012406,"general":1233531750,"creator":1233531750,])
 Marriages ({})
@@ -72,8 +73,8 @@ melee 0
 godmode 0
 Alcohol 0
 Caffeine 0
-Food 90
-Drink 90
+Food 0
+Drink 0
 Poison 0
 Sleeping 0
 StaminaPoints 435.000000
@@ -81,7 +82,7 @@ Torso "torso"
 Biter 0
 keepalive 0
 Fingers (["right hand":5,"left hand":5,])
-Limbs (["right foot":(["children":({}),"armors":241,"health":90,"class":4,"parent":"right leg",]),"right leg":(["children":({"right foot",}),"armors":1049761,"health":180,"class":2,"parent":"torso",]),"head":(["children":({}),"armors":262913,"health":350,"class":1,"parent":"neck",]),"neck":(["children":({"head",}),"armors":786433,"health":350,"class":1,"parent":"torso",]),"left arm":(["children":({"left hand",}),"armors":1253385,"health":180,"class":2,"parent":"torso",]),"left foot":(["children":({}),"armors":241,"health":90,"class":4,"parent":"left leg",]),"left leg":(["children":({"left foot",}),"armors":1049761,"health":180,"class":2,"parent":"torso",]),"torso":(["children":({"neck","right leg","left leg","right arm","left arm",}),"armors":1538049,"health":350,"class":1,"parent":0,]),"right hand":(["children":({}),"armors":98319,"health":90,"class":4,"parent":"right arm",]),"left hand":(["children":({}),"armors":98319,"health":90,"class":4,"parent":"left arm",]),"right arm":(["children":({"right hand",}),"armors":1253385,"health":180,"class":2,"parent":"torso",]),])
+Limbs (["head":(["children":({}),"armors":262913,"parent":"neck","class":1,"health":350,]),"right leg":(["children":({"right foot",}),"armors":1049761,"parent":"torso","class":2,"health":180,]),"right foot":(["children":({}),"armors":241,"parent":"right leg","class":4,"health":90,]),"neck":(["children":({"head",}),"armors":786433,"parent":"torso","class":1,"health":350,]),"left foot":(["children":({}),"armors":241,"parent":"left leg","class":4,"health":90,]),"left arm":(["children":({"left hand",}),"armors":1253385,"parent":"torso","class":2,"health":180,]),"torso":(["children":({"neck","right leg","left leg","right arm","left arm",}),"armors":1538049,"parent":0,"class":1,"health":350,]),"left leg":(["children":({"left foot",}),"armors":1049761,"parent":"torso","class":2,"health":180,]),"right hand":(["children":({}),"armors":98319,"parent":"right arm","class":4,"health":90,]),"right arm":(["children":({"right hand",}),"armors":1253385,"parent":"torso","class":2,"health":180,]),"left hand":(["children":({}),"armors":98319,"parent":"left arm","class":4,"health":90,]),])
 MissingLimbs ([])
 firearms_wounds 0
 Falling 0
@@ -92,7 +93,7 @@ Blind 0
 Custom (["stats":15,"deviations":4,"deviating":0,])
 LightSensitivity ({25,7500,})
 Resistance (["low":0,"high":0,"immune":0,"medium":0,"none":134217726,])
-Stats (["wisdom":(["class":3,"points":0,"level":54,]),"agility":(["class":3,"points":0,"level":49,]),"speed":(["class":3,"points":0,"level":40,]),"strength":(["class":3,"points":0,"level":26,]),"intelligence":(["class":1,"points":0,"level":77,]),"durability":(["class":4,"points":0,"level":34,]),"charisma":(["class":2,"points":0,"level":33,]),"coordination":(["class":2,"points":0,"level":51,]),"luck":(["class":3,"points":0,"level":30,]),])
+Stats (["agility":(["class":3,"points":0,"level":49,]),"wisdom":(["class":3,"points":0,"level":54,]),"speed":(["class":3,"points":0,"level":40,]),"intelligence":(["class":1,"points":0,"level":77,]),"strength":(["class":3,"points":0,"level":26,]),"durability":(["class":4,"points":0,"level":34,]),"charisma":(["class":2,"points":0,"level":33,]),"coordination":(["class":2,"points":0,"level":51,]),"luck":(["class":3,"points":0,"level":30,]),])
 Polyglot 0
 Languages (["english":(["native":1,"name":"English","points":0,"level":100,]),"common":(["native":0,"name":"Common","points":0,"level":100,]),])
 DefaultLanguage "Common"
@@ -102,7 +103,7 @@ Town "World"
 Race "human"
 Gender "male"
 Level 1
-Skills (["magic defense":(["class":2,"points":0,"level":3,]),"psionic defense":(["class":3,"points":0,"level":2,]),"melee defense":(["class":2,"points":0,"level":2,]),"projectile attack":(["class":1,"points":0,"level":1,]),"knife defense":(["class":1,"points":0,"level":2,]),"blunt defense":(["class":1,"points":0,"level":2,]),"melee attack":(["class":2,"points":0,"level":1,]),"projectile defense":(["class":2,"points":0,"level":1,]),"bargaining":(["class":2,"points":0,"level":4,]),"blade defense":(["class":2,"points":0,"level":1,]),"magic attack":(["class":2,"points":0,"level":3,]),"knife attack":(["class":1,"points":0,"level":3,]),"blunt attack":(["class":1,"points":0,"level":2,]),"blade attack":(["class":2,"points":0,"level":1,]),])
+Skills (["psionic defense":(["class":3,"points":0,"level":2,]),"magic defense":(["class":2,"points":0,"level":3,]),"melee defense":(["class":2,"points":0,"level":2,]),"projectile attack":(["class":1,"points":0,"level":1,]),"blunt defense":(["class":1,"points":0,"level":2,]),"knife defense":(["class":1,"points":0,"level":2,]),"melee attack":(["class":2,"points":0,"level":1,]),"projectile defense":(["class":2,"points":0,"level":1,]),"blade defense":(["class":2,"points":0,"level":1,]),"bargaining":(["class":2,"points":0,"level":4,]),"magic attack":(["class":2,"points":0,"level":3,]),"blunt attack":(["class":1,"points":0,"level":2,]),"knife attack":(["class":1,"points":0,"level":3,]),"blade attack":(["class":2,"points":0,"level":1,]),])
 Morality 0
 Class "explorer"
 Clan 0

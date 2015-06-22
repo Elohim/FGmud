@@ -4,6 +4,7 @@
 /domains/alpha/obj
 /secure/cmds/hm
 /domains/amigara/weap
+/domains/Roses/meals/fish
 /secure/cfg
 /domains/town/save
 /powers/trades
@@ -50,6 +51,7 @@
 /domains
 /verbs/rooms
 /domains/default/vehicle
+/domains/Roses/npc
 /doc/help/hm
 /domains/default/virtual
 /doc/lfun/lib/limb
@@ -72,13 +74,17 @@
 /doc/lfun/lib/fuel
 /domains/Praxis/obj/weapon
 /log/law/sites-register
+/domains/Roses/armor
 /domains/default/weap
 /domains/default/npc
+/domains/Roses/virtual
 /domains/default
 /domains/cave/doors
 /doc/efun
+/domains/Addell/doors
 /doc/efun/strings
 /domains/Ylsrim/armor
+/domains/Roses/weap
 /doc/applies
 /shadows
 /domains/Praxis/death
@@ -91,6 +97,7 @@
 /verbs/spells
 /secure/modules
 /domains/Praxis/obj/magic
+/domains/Addell/etc
 /doc/manual
 /log/router
 /domains/Ylsrim/virtual
@@ -117,10 +124,12 @@
 /verbs/players/include
 /doc/lfun/lib
 /domains/amigara/virtual/void
+/domains/Roses
 /doc/lfun/lib/connect
 /doc/lfun/lib/living
 /domains/cave/armor
 /domains/amigara/adm
+/domains/Addell/armor
 /doc
 /doc/bguide
 /domains/cave/txt
@@ -150,6 +159,7 @@
 /domains/fort/weap
 /domains/town/virtual/oldsky1434921856
 /domains/amigara/amigara/vehicle
+/domains/Addell/npc
 /doc/applies/interactive
 /verbs/powers
 /doc/lfun/lib/classes
@@ -175,6 +185,7 @@
 /daemon/tmp
 /log/suicides
 /save/kills/x
+/domains/Addell/room
 /save/kills/u
 /save/kills/t
 /domains/alpha/armor
@@ -250,6 +261,7 @@
 /domains/alpha/txt
 /domains/cave/etc
 /domains/amigara/virtual
+/domains/Addell/obj
 /doc/lfun/lib/vendor
 /doc/lpc/advanced
 /secure/cfg/races
@@ -272,6 +284,7 @@
 /powers/feats
 /std/board
 /doc/lfun/lib/burn
+/domains/Roses/meals
 /doc/lfun/lib/corpse
 /domains/default/npc/quarantine
 /domains/town/virtual
@@ -301,12 +314,14 @@
 /domains/town/txt/shame
 /domains/default/save
 /cmds/admins
+/domains/Roses/room
 /doc/applies/parsing
 /doc/lfun/lib/virt_sky
 /doc/lfun/lib/npc
 /secure/cmds/creators
 /domains/cave/meals
 /cmds/players
+/domains/Addell/meals
 /secure/verbs
 /domains/learning/chamber
 /domains/Ylsrim/adm
@@ -386,6 +401,7 @@
 /domains/fort/room
 /domains/campus/save
 /domains/fort/meals
+/domains/Roses/txt
 /secure
 /log/open
 /lib
@@ -399,6 +415,7 @@
 /doc/lfun/lib/fishing
 /domains/alpha/npc
 /log/law/email
+/domains/Addell
 /secure/verbs/creators
 /domains/amigara/meals
 /doc/lfun/lib/equip
@@ -418,6 +435,7 @@
 /domains/Ylsrim/npc
 /doc/lfun/all
 /secure/lib/std
+/domains/Roses/txt/religion
 /www/images
 /secure/obj/include
 /domains/Ylsrim/meal
@@ -441,6 +459,7 @@
 /domains/amigara/amigara/save
 /doc/lfun
 /domains/Praxis/attic
+/domains/Addell/weap
 /domains/town/virtual/bottom
 /www/cgi
 /doc/lfun/lib/manipulate

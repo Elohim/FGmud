@@ -41,6 +41,7 @@
 /log/chan/archive/muds-2013.08.02-01.13,15
 /domains/campus/txt/lisa.txt
 /log/chan/archive/muds-2010.09.08-19.45,48
+/domains/Addell/room/chieftain.c
 /verbs/common/yell.c
 /log/chan/archive/i2game-2009.05.16-04.59,29
 /secure/include/clock.h
@@ -134,6 +135,7 @@
 /log/chan/archive/muds-2010.11.08-04.45,48
 /domains/fort/obj/50round.c
 /verbs/rooms/include/fish.h
+/domains/Addell/npc/gorm.c
 /log/chan/archive/inews-2013.08.01-01.13,15
 /secure/daemon/icp.c
 /cmds/players/rwho.c
@@ -162,6 +164,7 @@
 /doc/efun/system/set_reset
 /domains/fort/room/common13.c
 /cmds/creators/html.c
+/domains/Addell/armor/pajamas.c
 /log/chan/archive/imudnews-2010.09.26-04.45,48
 /domains/Praxis/pub.c
 /secure/sefun/security.c
@@ -224,6 +227,7 @@
 /log/chan/fighter
 /doc/efun/all/lower_case
 /secure/lib/net/ftp.c
+/domains/Roses/room/freezer.c
 /log/chan/alpha
 /log/archive/runtime-2009.03.16-02.30,39
 /domains/Ylsrim/broken/cold.c
@@ -282,6 +286,7 @@
 /secure/cmds/creators/findfun.c
 /verbs/players/include/follow.h
 /daemon/tmp/four.c
+/domains/Roses/room/barracks_e.c
 /doc/lfun/lib/body/GetWieldingLimbs
 /secure/sefun/translate.c
 /log/chan/archive/muds-2009.04.11-15.28,44
@@ -294,6 +299,7 @@
 /doc/lfun/lib/battery/eventCharge
 /secure/obj/glasses.c
 /save/portal.3333.o
+/domains/Addell/room/shop.c
 /save/kills/c/cmkgkhdbhmd
 /doc/efun/all/master
 /doc/efun/interactive/users
@@ -375,6 +381,7 @@
 /domains/fort/room/shop.c
 /domains/fort/armor/handbag.c
 /secure/scripts/walkabout.src
+/domains/Addell/obj/tall_lamp.c
 /domains/Ylsrim/room/weaponry_storage.c
 /domains/default/obj/reset_button.c
 /log/chan/archive/intergossip-2010.09.16-17.45,48
@@ -442,12 +449,14 @@
 /domains/campus/obj/bbucket.c
 /doc/sefun/query_snoop
 /save/kills/k/knhcjj
+/daemon/tmp/DISEASE.c
 /domains/fort/meals/herring.c
 /log/chan/archive/muds-2009.05.20-07.06,41
 /log/archive/runtime-2009.03.16-01.30,39
 /domains/default/armor/combat_pack.c
 /cmds/creators/vis.c
 /save/kills/d/dfgegjhl
+/lib/props/soulbound.c
 /domains/fort/room/bgate.c
 /doc/applies/preload
 /doc/lfun/lib/load/eventLoad
@@ -568,12 +577,15 @@
 /domains/Praxis/council_vote.c
 /daemon/domains.c
 /www/cgi/chanlogs.c
+/domains/Addell/armor/orc_helmet.c
 /daemon/tmp/MOUTH_TOOTHED+MOUTH_TONGUED+MOUTH_FANGED.c
+/domains/Roses/room/_template.c
 /doc/efun/filesystem/cp
 /domains/Ylsrim/README
 /domains/town/virtual/sky/21,8,1.c
 /domains/town/npc/nymph.c
 /domains/fort/room/f_road27.c
+/domains/Roses/room/classhall_thief.c
 /doc/efun/strings/strsrch
 /doc/efun/all/unique_mapping
 /save/portal.4444.o
@@ -591,12 +603,14 @@
 /domains/fort/obj/lice.c
 /doc/CREDITS
 /log/chan/archive/muds-2009.04.26-19.06,12
+/domains/Addell/armor/foodsmock.c
 /doc/efun/all/present
 /domains/fort/room/thall.c
 /www/articles/imc2_ban.html
 /save/kills/j/jonbnh
 /log/chan/archive/muds-2010.08.23-20.45,48
 /doc/lfun/all/GetStaminaPoints
+/secure/tmp/elohim_CMD_EVAL_TMP_FILE.c
 /log/chan/archive/muds-2010.09.24-16.45,48
 /verbs/items/include/read.h
 /domains/fort/room/f_road21.c
@@ -623,12 +637,14 @@
 /doc/lfun/all/GetDrainable
 /domains/town/room/mansion_uhall2.c
 /domains/Praxis/forest1.c
+/domains/Addell/areadefs.h
 /domains/campus/room/snack.c
 /domains/Ylsrim/room/church.c
 /doc/efun/all/rm
 /log/chan/zblah
 /www/news.html
 /log/chan/archive/muds-2010.08.24-13.45,48
+/domains/Addell/armor/armored_boot_r.c
 /domains/campus/obj/.pedestal.c.swp
 /lib/manycoins.c
 /save/kills/k/kam
@@ -653,6 +669,7 @@
 /log/archive/runtime-2009.03.16-00.30,39
 /domains/fort/obj/rocking_chair.c
 /log/chan/archive/muds-2013.08.08-13.13,15
+/domains/Addell/armor/armored_boot_l.c
 /log/chan/archive/ds-2010.08.10-18.18,42
 /domains/fort/weap/orcslayer.c
 /log/chan/archive/muds-2009.04.10-20.28,44
@@ -673,6 +690,7 @@
 /domains/town/obj/ladder.c
 /log/chan/archive/muds-2011.01.04-17.46,13
 /log/archive/runtime-2009.11.16-17.09,22
+/domains/Roses/room/merchant_n1.c
 /upgrades.txt
 /save/kills/x/xkcdkamk
 /domains/default/doors/steel_door.c
@@ -723,6 +741,7 @@
 /log/archive/catch-2011.08.23-08.31,52
 /domains/town/armor/tshirt.c
 /cmds/creators/domains.c
+/domains/Addell/obj/food_storage1_key.c
 /secure/cmds/creators/mv.c
 /lib/blank_pile.c
 /secure/cmds/creators/restore.c
@@ -743,6 +762,7 @@
 /domains/town/room/wtunnel5.c
 /doc/manual/chapter38
 /daemon/tmp/board.c
+/domains/Roses/weap/cue.c
 /doc/manual/chapter37
 /save/kills/l/lji
 /log/chan/archive/muds-2010.09.23-22.45,48
@@ -817,6 +837,7 @@
 /save/kills/x/xkcdmebn
 /domains/town/obj/maglite.c
 /log/chan/archive/sport-2013.08.11-10.13,15
+/domains/Roses/virtual/void.c
 /doc/efun/calls/this_object
 /save/services.6666.o
 /domains/fort/room/east_wall_4.c
@@ -926,6 +947,7 @@
 /doc/lfun/all/SetPacifist
 /domains/cave/room/dining1.c
 /lib/events/dig_with.c
+/domains/Addell/meals/jerky.c
 /doc/applies/valid_override
 /daemon/banish.c
 /save/kills/l/lhmahen
@@ -944,6 +966,7 @@
 /www/lpmuds/lp_versus_diku.html
 /lib/currency.c
 /domains/fort/armor/leather_suit.c
+/domains/Addell/armor/pants.c
 /domains/default/armor/glove_r.c
 /domains/Praxis/highway3.c
 /save/kills/c/cgokf
@@ -952,6 +975,7 @@
 /secure/include/config.5555.h
 /log/chan/archive/dchat-2010.10.20-10.45,48
 /domains/Praxis/building.c
+/domains/Addell/room/pod.c
 /domains/town/room/confroom.c
 /save/kills/h/hnjokaijhdc
 /doc/applies/master/log_error
@@ -1004,6 +1028,7 @@
 /domains/fort/obj/generator.c
 /doc/applies/parse_command_id_list
 /doc/help/players/vendors
+/domains/Roses/room/courtyard.c
 /save/kills/s/slymenstra
 /doc/lfun/lib/body/GetLimbs
 /log/chan/archive/muds-2010.11.09-07.45,48
@@ -1027,6 +1052,7 @@
 /doc/build/Climates
 /cmds/creators/mstatus.c
 /log/i3error
+/domains/Addell/obj/key_chest1.c
 /doc/efun/all/arrayp
 /secure/daemon/alchemist.c
 /verbs/rooms/go.c
@@ -1146,6 +1172,7 @@
 /log/chan/archive/muds-2010.09.08-14.45,48
 /log/chan/archive/muds-2010.11.11-05.45,48
 /doc/applies/interactive/window_size
+/domains/Roses/room/wall_e2.c
 /domains/fort/obj/testbag2.c
 /lib/comp/surface.c
 /save/portal.6666.o
@@ -1286,6 +1313,7 @@
 /save/kills/f/fkngd
 /log/chan/archive/intergossip-2010.12.08-15.45,48
 /log/chan/archive/muds-2013.08.03-16.13,15
+/domains/Addell/room/cavepass13.c
 /domains/town/virtual/bottom/5,0.c
 /doc/lfun/lib/clip/CanRelease
 /log/archive/reset-2010.09.23-10.45,48
@@ -1355,6 +1383,7 @@
 /secure/cfg/classes/fighter
 /domains/default/npc/dryad.c
 /domains/default/obj/javelin_bin.c
+/domains/Addell/room/cavepass7.c
 /log/chan/archive/muds-2010.11.11-04.45,48
 /save/kills/x/xkcdgnlnobm
 /doc/lfun/lib/bonus/GetBonusDuration
@@ -1377,6 +1406,7 @@
 /log/chan/archive/dgd-2009.03.14-06.46,02
 /log/chan/*dalet:imud_gossip
 /domains/Praxis/quest_room.c
+/domains/Addell/room/cavepass1.c
 /doc/sefun/conjunction
 /log/chan/archive/muds-2009.03.26-00.17,31
 /log/chan/archive/muds-2010.11.09-19.45,48
@@ -1430,10 +1460,12 @@
 /domains/fort/npc/dude.c
 /domains/town/armor/magical_platemail.c
 /domains/amigara/amigara/room/oguard.c
+/domains/Roses/room/merchant_s1.c
 /doc/lfun/all/AddMoJo
 /log/chan/archive/intergossip-2009.05.21-00.13,36
 /domains/default/room/menagerie.c
 /log/chan/archive/intergossip-2010.09.10-11.45,48
+/domains/Addell/doors/kurogane.c
 /log/chan/archive/imudnews-2010.11.26-11.45,48
 /verbs/players/pray.c
 /log/chan/archive/muds-2010.12.15-21.45,48
@@ -1449,6 +1481,7 @@
 /domains/alpha/room/void.c
 /log/chan/archive/intercre-2010.07.31-11.18,42
 /domains/fort/npc/wtf2.c
+/domains/Addell/armor/loincloth.c
 /doc/help/creators/emotes
 /doc/efun/system/flush_messages
 /log/chan/archive/muds-2010.10.09-02.45,48
@@ -1456,6 +1489,7 @@
 /doc/lfun/lib/firearm/SetMillimeter
 /domains/fort/weap/carving_knife.c
 /domains/fort/room/west_wall_4.c
+/domains/Addell/room/void.c
 /obj/thing.c
 /daemon/tmp/A_RING.c
 /cmds/creators/reset.c
@@ -1515,6 +1549,7 @@
 /domains/default/obj/gps.c
 /doc/efun/all/set_debug_level
 /daemon/include/time.h
+/domains/Addell/etc/vines.c
 /save/kills/n/nnhgch
 /save/kills/f/fiocffeeo
 /lib/include/chat.h
@@ -1578,12 +1613,14 @@
 /domains/default/npc/fighter.c
 /save/kills/m/mai
 /save/kills/x/xkcdldfinac
+/domains/Addell/npc/orc_guard.c
 /log/archive/catch-2009.10.29-16.07,29
 /domains/campus/room/science4.c
 /domains/Ylsrim/room/kaliid5.c
 /domains/fort/room/guildhouse.c
 /secure/cmds/creators/heal.c
 /domains/campus/armor/tshirt.c
+/domains/Addell/room/common4.c
 /domains/cave/obj/garbage.c
 /daemon/tmp/testylus'.c
 /log/archive/runtime-2011.08.23-07.31,45
@@ -1604,6 +1641,7 @@
 /doc/sefun/starts_with
 /doc/lfun/lib/clay/SetComposition
 /log/chan/archive/muds-2010.10.17-01.45,48
+/domains/Roses/room/bridge_reid.c
 /domains/fort/room/common12.c
 /domains/cave/armor/armored_glove_r.c
 /log/chan/archive/muds-2010.11.09-04.45,48
@@ -1686,6 +1724,7 @@
 /doc/build/Rooms
 /save/portal.8888.o
 /domains/amigara/amigara/room/osecret.c
+/domains/Roses/room/legionpost.c
 /domains/Praxis/immortal_hall.c
 /log/secure/foo.txt
 /log/chan/inews
@@ -1755,6 +1794,7 @@
 /doc/lfun/lib/body/eventCheckProtection
 /doc/lfun/lib/battery/Spent
 /domains/fort/armor/bluedress.c
+/domains/Addell/obj/chair.c
 /doc/lfun/lib/body/AddDrink
 /domains/default/npc/troll.c
 /domains/cave/obj/.table2.c.swp
@@ -1998,6 +2038,7 @@
 /secure/sefun/this_agent.c
 /domains/campus/txt/ai/charles/bak2/bak1/wins
 /domains/town/weap/carving_knife.c
+/domains/Addell/room/kurogane.c
 /cmds/creators/expel.c
 /log/chan/i2game
 /log/chan/archive/muds-2010.07.10-10.16,00
@@ -2106,6 +2147,7 @@
 /std/prop_logic.c
 /log/reports/foo.txt
 /log/chan/archive/muds-2010.09.11-15.45,48
+/domains/Roses/npc/than.c
 /doc/sefun/user_path
 /daemon/time.c
 /save/kills/o/okn
@@ -2162,6 +2204,7 @@
 /domains/campus/txt/skulls.txt
 /secure/cmds/admins/whoregistered.c
 /domains/fort/room/f_road17.c
+/domains/Addell/room/guardroom4.c
 /doc/efun/all/classp
 /doc/applies/telnet_suboption
 /save/kills/x/xkcdfjbgaajd
@@ -2195,6 +2238,7 @@
 /log/chan/archive/intergossip-2013.08.20-18.13,15
 /save/mudinfo.3333.o
 /secure/include/.runtime_config.h.swp
+/domains/Roses/npc/roses_banker.c
 /save/classes.5555.o
 /secure/sefun/.sefun.c.swp
 /log/archive/runtime-2009.12.29-11.59,12
@@ -2222,6 +2266,7 @@
 /verbs/items/smell.c
 /lib/undead.c
 /domains/Praxis/obj/misc/bag.c
+/domains/Roses/room/eastgate_f2.c
 /secure/sefun/communications.c
 /save/kills/c/cacab
 /domains/fort/armor/steel_boot_l.c
@@ -2264,6 +2309,7 @@
 /doc/lfun/lib/clean/eventDestruct
 /lib/magic.c
 /cmds/creators/rehash.c
+/domains/Addell/npc/rat.c
 /log/chan/archive/free_speech-2013.08.20-08.13,15
 /doc/lfun/lib/clan/eventWelcome
 /domains/fort/room/east_wall_3.c
@@ -2365,6 +2411,7 @@
 /domains/fort/doors/test_door2.c
 /www/cgi/edit_script.js
 /domains/town/obj/room_item.c
+/domains/Addell/room/start.c
 /save/kills/c/cgoihaec
 /log/chan/archive/muds-2010.11.08-21.45,48
 /domains/town/armor/workglove_l.c
@@ -2401,6 +2448,7 @@
 /domains/default/npc/giant.c
 /save/kills/m/mlanmdh
 /save/kills/x/xkcdahheabdlb
+/domains/Addell/etc/portal_out.c
 /save/kills/x/xkcdjnbllohe
 /log/chan/archive/dgd-2009.03.27-05.11,20
 /doc/sefun/center
@@ -2447,6 +2495,7 @@
 /domains/fort/armor/helmet.c
 /log/chan/archive/muds-2010.09.09-01.45,48
 /domains/Ylsrim/meal/stew.c
+/domains/Addell/npc/chieftain.c
 /log/chan/archive/muds-2013.08.20-17.13,15
 /save/kills/a/amlmjgbmjho
 /secure/daemon/reaper.c
@@ -2479,6 +2528,7 @@
 /doc/lfun/lib/body/GetAffectLong
 /log/chan/archive/muds-2010.11.09-00.45,48
 /log/chan/archive/muds-2009.04.14-05.29,16
+/domains/Roses/room/beggars_3.c
 /domains/fort/room/tguild.c
 /log/chan/archive/muds-2010.08.17-12.45,20
 /domains/campus/txt/ai/charly/bak/switches
@@ -2518,6 +2568,7 @@
 /domains/fort/armor/ring3.c
 /domains/fort/armor/plated_pants.c
 /log/chan/archive/muds-2009.05.20-11.06,41
+/domains/Addell/weap/sword.c
 /doc/sefun/levenshtein_distance
 /doc/lfun/lib/battery/SetCellType
 /verbs/common/include/shout.h
@@ -2561,6 +2612,7 @@
 /log/chan/archive/inews-2009.04.13-05.29,16
 /doc/lfun/lib/body/AddMoJo
 /verbs/rooms/fly.c
+/domains/Roses/room/wall_e1.c
 /log/chan/archive/muds-2009.10.06-17.42,42
 /save/soul.2222.o
 /save/kills/i/ig
@@ -2577,6 +2629,7 @@
 /doc/efun/floats/cos
 /domains/Praxis/hole.c
 /log/chan/archive/muds-2010.11.08-20.45,48
+/domains/Addell/obj/stein.c
 /domains/amigara/room/ocommon.c
 /domains/Praxis/orc_valley/open.c
 /log/chan/archive/muds-2009.05.19-19.06,41
@@ -2636,6 +2689,7 @@
 /save/kills/b/bbmdcgdmhnj
 /doc/lfun/lib/burn/CanExtinguish
 /log/chan/bsg
+/domains/Addell/weap/javelin.c
 /doc/lfun/all/eventCharge
 /secure/tmp/testylus
 /doc/efun/all/socket_accept
@@ -2653,7 +2707,9 @@
 /lib/props/uniqueness.c
 /domains/campus/txt/ai/charles/red_wins
 /domains/campus/room/basement.c
+/domains/Addell/armor/chainmail_collar.c
 /domains/campus/txt/ai/charles/bak2/fgreen
+/domains/Addell/obj/jerkybox.c
 /doc/efun/all/query_ip_port
 /log/chan/archive/dchat-2011.01.07-15.46,13
 /domains/amigara/room/cave.c
@@ -2661,6 +2717,7 @@
 /powers/spells/whip.c
 /log/chan/archive/muds-2010.07.08-22.16,00
 /domains/fort/obj/trashcan.c
+/domains/Addell/room/freezer.c
 /doc/old/RELEASE_NOTES.old
 /log/chan/archive/sport-2013.08.21-15.13,15
 /domains/campus/obj/45case.c
@@ -2707,6 +2764,7 @@
 /domains/fort/obj/ped_button.c
 /doc/efun/all/enable_commands
 /log/chan/archive/muds-2009.04.30-20.08,36
+/domains/Addell/room/cavepass12.c
 /daemon/tmp/WATER.c
 /doc/lfun/lib/player/eventReconnect
 /cmds/creators/clean.c
@@ -2763,6 +2821,7 @@
 /daemon/tmp/suit.c
 /save/kills/h/hkiahlilg
 /log/chan/archive/muds-2010.08.21-09.45,48
+/domains/Addell/room/cavepass6.c
 /log/chan/archive/muds-2010.07.07-21.15,58
 /lib/include/shell.h
 /doc/efun/all/find_player
@@ -2834,10 +2893,12 @@
 /log/archive/reset-2009.05.24-22.22,24
 /domains/campus/txt/finger.txt
 /secure/sefun/english.c
+/domains/Roses/room/westgate_f2.c
 /domains/town/room/void.c
 /log/chan/archive/i2news-2009.05.13-20.59,29
 /domains/campus/armor/helmet.c
 /domains/cave/meals/beast.c
+/daemon/tmp/ELEM_DAMAGE.c
 /doc/efun/all/read_buffer
 /cmds/players/position.c
 /doc/lfun/all/eventFall
@@ -2884,6 +2945,7 @@
 /domains/town/virtual/void.c
 /doc/lfun/all/GetBonusDuration
 /domains/fort/room/west_wall_3.c
+/domains/Addell/obj/cot.c
 /domains/fort/armor/magical_platemail.c
 /secure/sefun/reaper.c
 /save/kills/c/cilfjce
@@ -2953,14 +3015,18 @@
 /lib/events/give.c
 /doc/lfun/lib/body/GetFingers
 /domains/town/obj/slip_heal.c
+/daemon/tmp/POISON.c
 /log/chan/archive/muds-2010.08.26-16.45,48
 /secure/obj/key.c
 /domains/default/npc/quarantine/graham.c
 /domains/fort/room/courtyard.c
 /log/chan/archive/intergossip-2010.10.21-07.45,48
+/domains/Addell/armor/dress.c
 /secure/cfg/races/dog
+/domains/Addell/room/cavetroll.c
 /doc/applies/valid_write
 /log/law/sites-tempban/foo.txt
+/domains/Addell/obj/omni.c
 /doc/lfun/lib/body/eventDie
 /domains/fort/room/tunnel8.c
 /domains/amigara/amigara/room/passage20.c
@@ -2982,6 +3048,7 @@
 /log/chan/archive/muds-2010.10.26-15.45,48
 /domains/cave/obj/cask2.c
 /domains/Praxis/orc_valley/passage2.c
+/domains/Addell/armor/chainmail.c
 /doc/lfun/lib/round/SetMillimeter
 /daemon/terminal.c
 /domains/fort/room/tunnel2.c
@@ -3013,6 +3080,7 @@
 /log/chan/archive/muds-2009.10.06-15.42,34
 /doc/lfun/lib/genetics/GetResistance
 /doc/efun/sockets/socket_create
+/domains/Addell/room/common3.c
 /news/avatar
 /domains/default/room/telnet_room.c
 /secure/cfg/classes/thief
@@ -3108,6 +3176,7 @@
 /domains/fort/room/common3.c
 /domains/cave/room/weapon_storage1.c
 /domains/campus/obj/rayovac.c
+/domains/Addell/weap/battleaxe.c
 /verbs/items/get.c
 /doc/lfun/lib/damage/GetClass
 /secure/daemon/.autoexec.c.swp
@@ -3138,6 +3207,7 @@
 /domains/cave/obj/ecoli.c
 /domains/fort/armor/shield.c
 /doc/efun/internals/mud_status
+/domains/Addell/etc/cave_orc.c
 /log/chan/archive/muds-2013.08.18-15.13,15
 /domains/town/obj/chair.c
 /doc/applies/parse_command_adjectiv_id_list
@@ -3224,7 +3294,9 @@
 /log/chan/archive/muds-2010.10.21-06.45,48
 /log/chan/archive/muds-2009.03.14-12.46,19
 /doc/efun/interactive/query_ip_name
+/domains/Addell/npc/kurogane.c
 /domains/town/npc/mayor.c
+/domains/Addell/weap/axe.c
 /domains/campus/room/death.c
 /doc/lfun/lib/chapel/eventMarry
 /doc/efun/all/load_object
@@ -3252,6 +3324,7 @@
 /doc/efun/strings/replace_string
 /doc/applies/save_ed_setup
 /log/chan/archive/muds-2010.11.09-10.45,48
+/domains/Roses/room/README
 /domains/fort/obj/cloak_hood.c
 /doc/lfun/all/GetMillimeter
 /domains/campus/txt/jenny/6.txt
@@ -3272,6 +3345,7 @@
 /doc/help/classes/explorer
 /save/kills/n/nammek
 /log/chan/archive/muds-2013.08.20-13.13,15
+/log/errors/Roses
 /doc/efun/calls/call_other
 /log/chan/archive/ichat-2009.03.27-23.17,31
 /domains/amigara/room/passage19.c
@@ -3346,6 +3420,7 @@
 /secure/cfg/ip_unrestrict.cfg
 /log/chan/archive/intergossip-2010.12.03-11.45,48
 /domains/fort/obj/9mmclip.c
+/domains/Addell/obj/ecoli.c
 /domains/town/virtual/bottom.c
 /doc/efun/all/random
 /log/chan/archive/muds-2009.03.28-15.12,22
@@ -3458,6 +3533,7 @@
 /log/chan/archive/muds-2009.03.30-02.51,27
 /lib/combatmsg.c
 /save/kills/j/jojj
+/daemon/tmp/EMOTIONAL.c
 /doc/applies/master/crash
 /domains/fort/obj/box.c
 /domains/campus/obj/.ped_button.c.swp
@@ -3523,6 +3599,7 @@
 /domains/fort/room/south_wall_1.c
 /domains/cave/obj/torch.c
 /domains/Ylsrim/etc/church_door.c
+/domains/Addell/armor/leather_armor.c
 /secure/daemon/.rooms.c.swp
 /log/errors/secure
 /lib/props/carry.c
@@ -3575,6 +3652,7 @@
 /include/boobytraps.h
 /domains/campus/npc/rat.c
 /domains/fort/room/f_road16.c
+/domains/Addell/room/guardroom3.c
 /domains/fort/armor/wizard_hat.c
 /secure/cfg/races/kobold
 /secure/cmds/creators/.wget.c.swp
@@ -3641,6 +3719,7 @@
 /doc/efun/all/rusage
 /doc/lfun/all/ClassMember
 /save/kills/c/ci
+/domains/Roses/room/eastgate_f1.c
 /daemon/tmp/rain man.c
 /www/articles/renaissance.html
 /log/dests
@@ -3747,6 +3826,7 @@
 /doc/sefun/currency_mass
 /log/chan/archive/muds-2010.11.11-20.45,48
 /log/chan/archive/dgd-2009.03.21-14.16,52
+/domains/Addell/obj/torch.c
 /cmds/creators/lfuns.c
 /log/chan/archive/intergossip-2010.09.26-01.45,48
 /www/articles/lpmuds.html
@@ -3764,11 +3844,13 @@
 /log/chan/archive/dchat-2010.11.30-13.45,48
 /domains/cave/room/cave.c
 /save/kills/m/mdgjlmdnd
+/domains/Roses/npc/class_master_thief.c
 /save/kills/f/four
 /log/archive/i3error.2009.05.17-22.31,52-2009.05.17-22.59,29
 /secure/daemon/secrets.c
 /verbs/players/teach.c
 /log/chan/archive/muds-2010.12.18-17.45,48
+/domains/Addell/obj/letter2.c
 /daemon/intermud.c
 /domains/fort/obj/candlestick.c
 /domains/Praxis/highway1.c
@@ -3849,6 +3931,7 @@
 /domains/campus/obj/stargate.c
 /save/kills/m/mhcgkjef
 /domains/fort/obj/locker.c
+/domains/Addell/room/rubbish.c
 /domains/default/npc/quarantine/tom.c
 /domains/campus/obj/yellowbox.c
 /domains/fort/obj/round2.c
@@ -3863,6 +3946,7 @@
 /log/chan/archive/intergossip-2010.09.20-13.45,48
 /domains/fort/armor/necklace.c
 /domains/campus/room/red_room.c
+/domains/Roses/room/beggars_2.c
 /log/archive/runtime-2010.07.10-09.16,00
 /cmds/creators/tellblock.c
 /secure/cmds/creators/rss.c
@@ -3901,6 +3985,7 @@
 /www/lpmuds/print.css
 /verbs/items/include/light.h
 /lib/vi.c
+/domains/Roses/room/wiz_hall.c
 /lib/events/poison.c
 /secure/cfg/races/poleepkwa
 /doc/lfun/lib/body/GetProtect
@@ -3935,6 +4020,7 @@
 /daemon/tmp/shore.c
 /domains/town/armor/locket.c
 /doc/lfun/lib/npc/GetMaxHealthPoints
+/domains/Roses/txt/religion/ResurrectionDesc_nihilism.txt
 /doc/help/creators/mssp
 /log/chan/archive/intercre-2009.05.13-00.59,29
 /log/chan/archive/dgd-2009.03.16-02.30,39
@@ -3943,6 +4029,7 @@
 /doc/sefun/format_string
 /domains/fort/obj/labkey.c
 /doc/sefun/nominative
+/domains/Roses/room/furnace.c
 /doc/lfun/lib/bonus/GetPoints
 /cmds/players/hist.c
 /secure/cmds/creators/.rss.c.swp
@@ -3976,6 +4063,7 @@
 /log/chan/archive/muds-2010.08.26-11.45,48
 /domains/town/npc/james.c
 /secure/sefun/get_cmds.c
+/daemon/tmp/MAGIC.c
 /secure/include/cfg.h
 /domains/default/room/furnace.c
 /doc/lfun/lib/damage/SetClass
@@ -4018,6 +4106,7 @@
 /doc/guide/chapter01
 /log/chan/archive/muds-2010.11.09-20.45,48
 /domains/Praxis/obj/mon/beggar.c
+/domains/Addell/obj/everstrike_match.c
 /domains/campus/txt/ai/charly/wins
 /doc/efun/all/remove_interactive
 /secure/cmds/creators/mudtime.c
@@ -4034,6 +4123,7 @@
 /log/chan/archive/muds-2010.10.22-09.45,48
 /domains/town/weap/357pistol.c
 /log/chan/archive/muds-2009.03.22-18.11,20
+/domains/Addell/armor/armored_glove_r.c
 /daemon/tmp/B_SPECTRAL.c
 /verbs/items/include/judge.h
 /domains/amigara/amigara/room/oleader.c
@@ -4055,6 +4145,7 @@
 /log/chan/archive/muds-2009.04.30-17.45,50
 /doc/help/creators/creator_general
 /domains/cave/obj/table.c
+/domains/Addell/armor/armored_glove_l.c
 /domains/fort/npc/praetorian_guard.c
 /secure/cfg/mudos.8888.cfg
 /log/chan/archive/muds-2009.03.27-12.11,20
@@ -4107,6 +4198,8 @@
 /save/kills/e/eeekmgh
 /obj/meal.c
 /domains/fort/obj/thing.c
+/domains/Addell/obj/chest_small.c
+/domains/Addell/room/cavepass11.c
 /doc/efun/all/bufferp
 /doc/lfun/all/SetCanBite
 /secure/daemon/oob.c
@@ -4172,6 +4265,7 @@
 /domains/Praxis/medium.c
 /log/chan/archive/muds-2010.11.27-19.45,48
 /doc/efun/all/remove_action
+/domains/Addell/room/cavepass5.c
 /secure/daemon/instances.c
 /lib/battery.c
 /domains/amigara/amigara/room/ocommhall.c
@@ -4198,11 +4292,13 @@
 /log/chan/archive/muds-2010.10.12-22.45,48
 /log/chan/archive/muds-2010.09.18-13.45,48
 /domains/fort/obj/scroll_raise_dead.c
+/domains/Addell/weap/cleaver.c
 /log/chan/archive/muds-2009.05.11-19.59,29
 /doc/applies/master/object_name
 /domains/default/npc/golem.c
 /log/chan/archive/muds-2010.12.13-07.45,48
 /doc/sefun/log_file
+/domains/Addell/room/_start.c
 /lib/events/shake.c
 /domains/fort/armor/lvest.c
 /doc/efun/all/query_notify_fail
@@ -4247,6 +4343,7 @@
 /log/chan/archive/muds-2010.10.21-01.45,48
 /lib/events/get_from.c
 /doc/efun/all/set_light
+/domains/Roses/room/westgate_f1.c
 /doc/applies/master/valid_read
 /doc/sefun/alignment_string
 /lib/shop.c
@@ -4262,6 +4359,8 @@
 /domains/default/obj/generator.c
 /doc/efun/mappings/index
 /doc/efun/all/environment
+/domains/Addell/obj/table.c
+/lib/comp/object.c.20150621
 /cmds/creators/polyglottize.c
 /lib/guard.c
 /log/chan/archive/dgd-2009.03.15-21.30,39
@@ -4331,9 +4430,12 @@
 /www/print.css
 /secure/modules/armor.c
 /domains/town/armor/barsmock.c
+/domains/Roses/room/death.c
 /domains/default/npc/elemental.c
+/domains/Addell/room/loot_storage.c
 /log/chan/archive/ichat2-2010.08.13-14.18,42
 /domains/amigara/amigara/room/passage25.c
+/domains/Addell/obj/cask.c
 /daemon/meetings.c
 /secure/cfg/races/cow
 /save/kills/d/ddenc
@@ -4417,11 +4519,13 @@
 /domains/fort/room/mstreet6.c
 /domains/default/npc/boar.c
 /domains/Praxis/hall5.c
+/domains/Addell/room/common2.c
 /doc/sefun/currency_rate
 /save/kills/k/klnihj
 /doc/applies/get_bb_uid
 /log/chan/archive/inews-2009.03.14-00.46,02
 /domains/campus/obj/pwatch.c
+/domains/Roses/armor/SimpleGloveR.c
 /domains/Praxis/mountains/chamber2.c
 /daemon/services/emoteto.c
 /log/chan/archive/muds-2010.11.18-11.45,48
@@ -4446,6 +4550,7 @@
 /domains/fort/room/bwall5.c
 /domains/campus/doors/steel_door3.c
 /log/chan/archive/muds-2010.08.27-02.45,48
+/domains/Roses/armor/SimpleGloveL.c
 /doc/lfun/lib/race/NewBody
 /domains/town/room/vill_road2.c
 /secure/cmds/creators/lsed.c
@@ -4753,6 +4858,7 @@
 /domains/cave/obj/cot.c
 /domains/Praxis/orc_valley/shaman.c
 /doc/efun/objects/clonep
+/domains/Addell/weap/longsword.c
 /domains/fort/weap/sharpsword.c
 /domains/fort/room/msquare_w.c
 /doc/efun/all/asin
@@ -4869,6 +4975,7 @@
 /save/kills/g/gicbi
 /domains/Praxis/obj/mon/police.c
 /save/kills/i/inoe
+/domains/Roses/meals/fish/fish_beginner_common.c
 /.2222.o
 /log/chan/archive/muds-2010.09.19-03.45,48
 /tmp/objects
@@ -4944,6 +5051,7 @@
 /domains/default/room/wiz_hall.c
 /log/reset
 /log/chan/archive/muds-2010.09.30-08.45,48
+/domains/Roses/npc/class_master_cleric.c
 /secure/cmds/admins/cwgconv.c
 /save/economy.4444.o
 /log/chan/archive/muds-2009.04.15-00.29,16
@@ -4980,6 +5088,8 @@
 /secure/cmds/admins/.mudconfig.c.swp
 /log/chan/archive/intergossip-2010.12.05-17.45,48
 /domains/fort/room/f_road15.c
+/domains/Addell/room/guardroom2.c
+/domains/Roses/armor/SimpleHosen.c
 /domains/town/armor/.boot_l.c.swp
 /lib/props/save.c
 /domains/campus/save/jennybot.o
@@ -5019,6 +5129,7 @@
 /save/kills/x/xkcdmmh
 /log/chan/archive/muds-2010.11.13-14.45,48
 /lib/props/properties.c
+/domains/Roses/room/parade_e3.c
 /domains/town/room/wtunnel2.c
 /doc/lfun/all/eventCheckProtection
 /domains/Praxis/quests/imp_crown.c
@@ -5057,6 +5168,7 @@
 /daemon/include/seasons.h
 /daemon/tmp/cratylus.c
 /domains/campus/txt/ai/charly/bak/green_wins
+/domains/Roses/armor/SimpleShirt.c
 /doc/efun/floats/atan
 /doc/applies/domain_file
 /log/chan/archive/muds-2011.01.07-17.46,13
@@ -5083,12 +5195,14 @@
 /log/imc2
 /log/chan/archive/intergossip-2010.12.21-16.45,48
 /domains/default/armor/towel.c
+/secure/cfg/races/vorskh
 /obj/friend.c
 /log/archive/catch-2011.08.21-06.04,13
 /daemon/tmp/A_ARMOR.c
 /lib/post_office.c
 /domains/campus/room/klab.c
 /domains/town/obj/torch.c
+/domains/Roses/room/eastgate_steps.c
 /daemon/tmp/B_NEBULOUS.c
 /log/chan/archive/dchat-2010.09.07-15.45,48
 /domains/campus/txt/jenny/7.txt
@@ -5162,6 +5276,7 @@
 /save/kills/c/cji
 /log/chan/archive/muds-2010.10.30-17.45,48
 /log/chan/archive/intergossip-2010.07.21-15.16,17
+/domains/Addell/obj/letter1.c
 /doc/lfun/all/GetClass
 /verbs/items/unload.c
 /save/events.5555.o
@@ -5184,6 +5299,7 @@
 /doc/sefun/wrap
 /doc/efun/strings/strlen
 /log/chan/archive/dgd-2010.11.19-13.45,48
+/domains/Roses/npc/class_master_fighter.c
 /save/kills/x/xkcdlflidebil
 /domains/default/obj/.rack.c.swp
 /std/lib/pile.c
@@ -5215,6 +5331,7 @@
 /log/chan/archive/inews-2009.03.22-16.17,00
 /log/chan/archive/muds-2010.08.27-12.45,48
 /domains/town/room/mansion_room5.c
+/domains/Roses/room/clergy.c
 /log/chan/archive/muds-2010.09.28-08.45,48
 /lib/include/torch.h
 /domains/campus/txt/doh.txt
@@ -5231,6 +5348,7 @@
 /www/lpmuds/maintenance.html
 /domains/amigara/room/oleader.c
 /doc/lfun/lib/burn/SetBurnRate
+/domains/Addell/obj/mug.c
 /log/chan/archive/muds-2011.01.10-08.46,13
 /save/kills/j/jhmnm
 /domains/campus/txt/bye.txt
@@ -5272,7 +5390,9 @@
 /domains/fort/npc/praetorian_guard.bak
 /log/chan/archive/imudnews-2010.08.08-23.18,42
 /log/chan/archive/intergossip-2013.07.30-14.13,15
+/domains/Roses/room/beggars_1.c
 /domains/learning/adm/README
+/domains/Addell/npc/cavetroll.c
 /doc/help/creators/profile
 /include/medium.h
 /secure/tmp/webtemp.html
@@ -5306,6 +5426,7 @@
 /doc/efun/system/ctime
 /obj/whip.c
 /domains/town/room/living_room.c
+/domains/Addell/npc/orc_scavenger.c
 /cmds/creators/file.c
 /log/chan/archive/muds-2011.01.08-09.46,13
 /doc/efun/system/call_out_info
@@ -5314,6 +5435,7 @@
 /domains/town/room/forest_well2.c
 /doc/applies/author_file
 /domains/town/obj/9mmround.c
+/domains/Roses/room/parade_w1.c
 /log/open/terminals
 /domains/town/virtual/sky/21,6,1.c
 /domains/fort/doors/menagerie.c
@@ -5339,6 +5461,7 @@
 /doc/efun/all/users
 /std/server.txt
 /domains/Praxis/orc_valley/guard.c
+/domains/Addell/npc/rybak.c
 /doc/efun/all/userp
 /log/chan/archive/inews-2009.05.16-15.59,29
 /log/archive/runtime-2010.07.08-17.16,00
@@ -5356,8 +5479,10 @@
 /log/chan/archive/intergossip-2009.03.17-17.30,39
 /save/kills/x/xkcdcnbff
 /log/chan/archive/intergossip-2010.11.18-20.45,48
+/domains/Addell/obj/skin.c
 /domains/town/npc/leo.c
 /save/kills/a/acdm
+/domains/Addell/room/README
 /doc/efun/mappings/filter_mapping
 /doc/lfun/lib/firearm/GetFirearmType
 /secure/obj/control.c
@@ -5381,7 +5506,9 @@
 /doc/efun/mixed/arrayp
 /.4444.o
 /secure/cmds/creators/people.c
+/log/errors/Addell
 /lib/include/scroll.h
+/domains/Roses/room/monastery.c
 /doc/efun/all/dump_socket_status
 /verbs/items/judge.c
 /domains/town/obj/thing.c
@@ -5410,6 +5537,7 @@
 /domains/amigara/room/kchief.c
 /domains/Praxis/obj/weapon/dagger.c
 /doc/lfun/lib/post_office/CanReceive
+/domains/Addell/room/weapon_storage1.c
 /doc/RELEASE_NOTES
 /log/chan/kotaka
 /log/chan/archive/muds-2010.12.14-08.45,48
@@ -5475,11 +5603,13 @@
 /doc/lfun/all/GetSkillModifier
 /save/kills/f/fhhnec
 /log/chan/archive/inews-2009.03.16-17.30,39
+/domains/Addell/armor/platemail.c
 /domains/town/save/0^0domains0^0town0^0obj0^0charity.o
 /domains/campus/obj/locker.c
 /verbs/builders/dest.c
 /lib/events/bait.c
 /save/kills/e/ecddncofija
+/domains/Roses/npc/class_master_monk.c
 /www/lpmuds/index.php
 /secure/include/post.h
 /log/archive/catch-2009.04.23-23.15,49
@@ -5490,11 +5620,13 @@
 /save/kills/x/xkcdemoammlc
 /lib/include/post_office.h
 /domains/fort/obj/riverwater.c
+/domains/Addell/room/food_storage1.c
 /log/chan/archive/intergossip-2013.08.27-10.13,15
 /domains/campus/etc/permit.cfg
 /domains/default/room/domains_room.c
 /save/kills/c/cac
 /log/chan/archive/intergossip-2010.09.21-12.45,48
+/domains/Addell/room/cavepass10.c
 /log/chan/archive/muds-2010.10.14-02.45,48
 /domains/Praxis/unnamed1.c
 /doc/efun/objects/tell_object
@@ -5548,6 +5680,8 @@
 /log/chan/archive/broken_gossip-2011.01.01-03.46,48
 /domains/campus/chamber/elevator.c
 /domains/town/weap/m16rifle.c
+/domains/Roses/room/bandits_1.c
+/domains/Addell/room/cavepass4.c
 /doc/lfun/all/GetProtect
 /secure/obj/snooper.c
 /domains/campus/txt/ai/charly/bak/fred
@@ -5603,6 +5737,7 @@
 /log/chan/archive/muds-2010.10.22-15.45,48
 /domains/town/obj/safe_key.c
 /domains/fort/obj/dining_table.c
+/domains/Addell/obj/knapsack.c
 /doc/lfun/lib/race/GetMaxHealthPoints
 /secure/scripts/bedlam.src
 /save/kills/x/xkcdjnegem
@@ -5641,6 +5776,7 @@
 /save/kills/f/fnho
 /log/chan/archive/sport-2013.08.02-07.13,15
 /log/archive/catch-2009.04.25-15.33,23
+/lib/props/materials.c
 /include/stargate.h
 /obj/door.c
 /save/kills/x/xkcdiaeohclca
@@ -5650,6 +5786,7 @@
 /domains/campus/obj/flashlight.c
 /doc/efun/all/socket_write
 /lib/std/book.c
+/domains/Addell/obj/fishbarrel.c
 /domains/fort/room/west_wall_7.c
 /doc/lfun/lib/clan/SetClanSkill
 /doc/efun/objects/restore_object
@@ -5666,6 +5803,7 @@
 /log/chan/archive/muds-2009.03.11-13.02,51
 /doc/efun/mappings/map_delete
 /log/chan/archive/inews-2013.08.19-17.13,15
+/domains/Addell/etc/portal_in.c
 /doc/efun/mixed/stringp
 /save/kills/d/dhk
 /cmds/admins/cache.c
@@ -5707,9 +5845,11 @@
 /log/archive/runtime-2010.07.10-00.16,00
 /doc/sefun/absolute_path
 /lib/language.c
+/domains/Addell/obj/chest1.c
 /save/kills/l/lmkmgdddlhe
 /log/chan/archive/intergossip-2010.08.07-14.18,42
 /domains/cave/armor/orc_tallboot_l.c
+/domains/Roses/room/_post.c
 /domains/fort/obj/9mmround.c
 /domains/fort/obj/rug.c
 /log/chan/archive/muds-2010.11.30-17.45,48
@@ -5793,6 +5933,7 @@
 /domains/fort/room/mstreet5.c
 /domains/Praxis/torture_room.c
 /domains/Praxis/hall4.c
+/domains/Addell/room/common1.c
 /daemon/tmp/secret.c
 /verbs/items/press.c
 /domains/fort/obj/charity.c
@@ -5933,6 +6074,7 @@
 /secure/daemon/i3router/blacklist.cfg
 /domains/town/armor/pants.c
 /doc/lfun/all/SetFuelRequired
+/domains/Roses/room/bridge_voss.c
 /shadows/ring.c
 /save/kills/j/jeahiolgaka
 /log/chan/archive/muds-2010.12.21-12.45,48
@@ -5989,6 +6131,7 @@
 /log/chan/archive/muds-2013.08.29-08.13,15
 /log/chan/archive/muds-2010.08.31-07.45,48
 /doc/lfun/all/GetName
+/domains/Addell/etc/lever.c
 /doc/lfun/all/GetChannels
 /log/chan/archive/muds-2010.08.30-00.45,48
 /domains/default/room/wiz_corr1.c
@@ -6007,6 +6150,7 @@
 /log/chan/archive/muds-2010.11.27-10.45,48
 /secure/daemon/master.h
 /log/chan/archive/sport-2013.08.01-12.13,15
+/domains/Addell/obj/waste.c
 /doc/lfun/lib/burn/CanBurn
 /doc/lfun/all/eventMarry
 /www/client/client.html
@@ -6037,6 +6181,7 @@
 /doc/efun/strings/index
 /secure/include/mssp.h
 /doc/efun/all/to_float
+/domains/Addell/meals/herring.c
 /log/chan/archive/inews-2009.03.15-21.30,39
 /domains/town/meals/bourbon.c
 /domains/cave/armor/platemail.c
@@ -6143,6 +6288,7 @@
 /log/chan/archive/muds-2010.10.31-19.45,48
 /doc/lfun/all/GetLong
 /log/chan/archive/intergossip-2013.08.06-13.13,15
+/domains/Addell/armor/orc_boot_r.c
 /log/chan/archive/muds-2010.09.28-17.45,48
 /verbs/items/listen.c
 /log/chan/archive/muds-2009.04.29-18.11,41
@@ -6166,6 +6312,7 @@
 /log/archive/runtime-2009.04.28-15.47,39
 /doc/lfun/lib/npc/eventDestruct
 /doc/lfun/all/GetLimbClass
+/domains/Addell/armor/orc_boot_l.c
 /secure/npc/cambot.c
 /domains/fort/obj/map.c
 /doc/sefun/set_privs
@@ -6231,6 +6378,7 @@
 /doc/lfun/all/GetCharge
 /secure/daemon/imc2.c
 /log/chan/archive/muds-2013.08.07-06.13,15
+/domains/Addell/armor/boobytrap_ring.c
 /doc/lfun/all/GetHeartModifier
 /log/chan/archive/muds-2010.09.01-08.45,48
 /log/chan/archive/dgd-2009.04.02-17.51,27
@@ -6255,6 +6403,7 @@
 /save/stargate.4444.o
 /log/chan/archive/inews-2013.08.28-07.13,15
 /doc/lfun/all/CanFly
+/domains/Addell/weap/knife.c
 /save/kills/j/jmncaginjf
 /www/articles/copyright.html
 /secure/tmp/dirs.txt
@@ -6278,6 +6427,7 @@
 /secure/include/config.h
 /lib/events/sink.c
 /domains/campus/txt/ai/charles/bak2/bak1/stays
+/domains/Addell/room/furnace.c
 /log/chan/archive/dchat-2010.12.07-11.45,48
 /log/archive/runtime-2009.11.27-15.59,14
 /domains/town/obj/50round.c
@@ -6286,6 +6436,7 @@
 /domains/Praxis/idle_supply.c
 /log/chan/archive/dchat-2010.09.17-09.45,48
 /domains/fort/room/quarters1.c
+/domains/Roses/room/_bank.c
 /log/chan/archive/muds-2010.09.21-22.45,48
 /save/kills/f/foa
 /cmds/creators/wizvision.c
@@ -6342,6 +6493,7 @@
 /domains/Ylsrim/etc/stool.c
 /log/chan/archive/muds-2010.09.13-22.45,48
 /domains/fort/room/f_road14.c
+/domains/Addell/room/guardroom1.c
 /secure/daemon/imc2server/server.c
 /log/chan/archive/intergossip-2010.09.14-15.45,48
 /doc/lfun/all/CanMarry
@@ -6377,6 +6529,7 @@
 /doc/sefun/alignment_ok
 /log/chan/archive/intergossip-2010.07.29-16.17,46
 /daemon/tmp/A_CLOAK.c
+/domains/Roses/room/parade_e2.c
 /log/chan/archive/muds-2011.01.10-16.46,13
 /lib/include/bboard.h
 /domains/amigara/amigara/room/ostorage.c
@@ -6446,6 +6599,7 @@
 /obj/container.c
 /obj/bed.c
 /log/chan/archive/muds-2013.07.30-22.13,15
+/domains/Addell/etc/cave_room.c
 /daemon/tmp/slymenstra.c
 /log/archive/runtime-2010.07.10-10.16,00
 /domains/town/armor/towel.c
@@ -6453,6 +6607,7 @@
 /lib/fuel.c
 /domains/campus/doors/green_door2.c
 /log/chan/archive/muds-2010.12.06-03.45,48
+/domains/Roses/virtual/server.c
 /save/kills/n/ngidlfdeh
 /doc/lfun/lib/classes/SetSkillModifier
 /doc/efun/mixed/classp
@@ -6515,6 +6670,7 @@
 /domains/fort/room/bank.c
 /domains/fort/armor/mhelmet.c
 /domains/town/armor/breather.c
+/domains/Addell/obj/garbage.c
 /verbs/players/sleep.c
 /lib/shadow.c
 /domains/fort/obj/pedestal.c
@@ -6525,6 +6681,7 @@
 /lib/events/lock_with.c
 /doc/lfun/lib/body/SetPacifist
 /domains/Praxis/supply.c
+/domains/Addell/obj/letter0.c
 /log/archive/runtime-2010.07.09-18.16,00
 /domains/town/npc/oana.c
 /domains/fort/obj/backpack_empty.c
@@ -6578,6 +6735,7 @@
 /domains/fort/weap/axe.c
 /domains/campus/armor/overalls.c
 /domains/default/armor/scoutsuit.c
+/domains/Roses/armor/SimpleBootR.c
 /domains/fort/weap/zpem.c
 /domains/Ylsrim/npc/balrog.c
 /log/archive/runtime-2010.07.09-04.16,00
@@ -6609,6 +6767,7 @@
 /doc/applies/master/get_save_file_name
 /domains/cave/room/cavepass6.c
 /domains/default/armor/wizard_hat.c
+/domains/Roses/armor/SimpleBootL.c
 /save/kills/m/mcenhknc
 /domains/campus/room/spath.c
 /doc/efun/internals/dump_prog
@@ -6632,6 +6791,7 @@
 /domains/campus/obj/redbox.c
 /log/chan/archive/muds-2009.03.11-22.02,51
 /secure/cmds/creators/pwd.c
+/domains/Roses/room/foo.c
 /news/hm
 /log/chan/serenity
 /domains/fort/room/cell4.c
@@ -6656,6 +6816,7 @@
 /log/chan/archive/broken_gossip-2010.12.28-13.46,48
 /domains/cave/armor/chainmail_collar.c
 /domains/Praxis/obj/mon/goblin_fighter.c
+/domains/Addell/obj/match.c
 /domains/town/obj/stove.c
 /log/chan/archive/muds-2009.04.10-18.28,44
 /domains/default/room/arena.c
@@ -6723,6 +6884,7 @@
 /doc/help/creators/creator
 /cmds/creators/praces.c
 /lib/include/trap.h
+/domains/Roses/areadefs.h
 /include/rounds.h
 /domains/cave/armor/armored_boot_r.c
 /secure/include/global.4444.h
@@ -6730,11 +6892,13 @@
 /doc/efun/all/fetch_variable
 /secure/cfg/classes/mage
 /save/kills/f/fkdhgiig
+/domains/Roses/room/arsportalis.c
 /doc/lfun/lib/body/AddExperiencePoints
 /log/chan/archive/muds-2010.10.30-23.45,48
 /doc/lfun/lib/classes/GetReligion
 /domains/fort/obj/match.c
 /save/kills/f/foalga
+/domains/Roses/room/post_lobby.c
 /domains/town/obj/pole.c
 /doc/sefun/objective
 /verbs/items/unwield.c
@@ -6749,6 +6913,7 @@
 /save/kills/g/gof
 /doc/lfun/all/SetLeader
 /save/kills/x/xkcdfdn
+/domains/Roses/room/classhall_monk.c
 /secure/include/council.h
 /log/archive/runtime-2010.07.09-17.16,00
 /domains/campus/txt/ai/charly/switches
@@ -6789,6 +6954,7 @@
 /domains/campus/txt/ai/charles/stays
 /log/chan/archive/muds-2011.01.02-00.46,48
 /doc/lfun/lib/limb/CanReceive
+/domains/Roses/room/classhall_cleric.c
 /domains/town/npc/herkimer.c
 /daemon/tmp/start.c
 /cmds/players/enemies.c
@@ -6890,6 +7056,7 @@
 /verbs/items/smoke.c
 /save/kills/n/nfkn
 /domains/town/room/forest_path1.c
+/domains/Roses/room/_square.c
 /domains/Praxis/party.c
 /www/cgi/creweb.c
 /domains/Ylsrim/npc/traveler.c
@@ -6936,8 +7103,10 @@
 /domains/cave/room/guardroom1.c
 /domains/campus/txt/jenny/8.txt
 /save/kills/g/ggelbkdbo
+/domains/Addell/room/cavepass9.c
 /domains/learning/room/furnace.c
 /domains/cave/npc/orc_soldier2.c
+/domains/Addell/room/shop2.c
 /log/chan/archive/muds-2010.11.07-05.45,48
 /secure/include/rcp.h
 /log/chan/archive/muds-2013.08.23-16.13,15
@@ -6957,6 +7126,7 @@
 /domains/campus/obj/pedestal.c
 /doc/lfun/lib/clan/eventJoin
 /domains/fort/armor/crimson_cloak.c
+/domains/Addell/room/cavepass3.c
 /log/chan/archive/dchat-2009.04.13-17.29,16
 /cmds/players/wimpy.c
 /log/chan/archive/muds-2010.10.01-01.45,48
@@ -6974,6 +7144,7 @@
 /domains/Praxis/mage_vote.c
 /doc/sefun/first_string_element
 /std/virtual_void.txt
+/secure/cfg/races/noor
 /domains/fort/room/gstreet4.c
 /domains/amigara/amigara/room/passage2.c
 /doc/lfun/lib/clip/SetMillimeter
@@ -6989,6 +7160,7 @@
 /save/kills/l/llfdmdo
 /secure/daemon/i3router/broadcast_chanlist.h
 /domains/town/armor/leather_armor.c
+/domains/Addell/doors/food_storage1.c
 /domains/campus/meals/wimp_ale.c
 /doc/efun/all/copy
 /obj/quest_ob.c
@@ -7022,6 +7194,7 @@
 /log/chan/archive/imudnews-2010.08.26-09.45,48
 /save/kills/i/ioohl
 /lib/include/interactive.h
+/domains/Roses/room/pod.c
 /doc/lfun/lib/corpse/GetRace
 /log/chan/archive/intergossip-2013.07.29-00.13,15
 /verbs/rooms/stop.c
@@ -7040,6 +7213,7 @@
 /domains/town/doors/gate.c
 /log/chan/dreamverse_gossip
 /doc/lfun/all/RemoveChannel
+/domains/Roses/room/wall_w2.c
 /log/chan/ichat2
 /log/chan/archive/muds-2013.08.16-09.13,15
 /save/kills/k/kmnbllnlb
@@ -7105,6 +7279,7 @@
 /doc/lpc/concepts/efun
 /verbs/items/give.c
 /secure/daemon/letters.h
+/domains/Addell/obj/chest0.c
 /secure/cfg/races/rodent
 /log/chan/archive/dchat-2010.11.16-11.45,48
 /secure/daemon/letters.c
@@ -7129,6 +7304,7 @@
 /secure/cfg/races/god
 /save/kills/g/gef
 /log/chan/archive/muds-2009.04.11-09.28,44
+/domains/Roses/npc/class_master_mage.c
 /secure/include/network.3333.h
 /doc/applies/master/valid_save_binary
 /domains/amigara/amigara/room/passage23.c
@@ -7156,6 +7332,7 @@
 /save/kills/x/xkcdgclho
 /save/mudinfo.o
 /domains/default/npc/snake.c
+/domains/Addell/obj/lister.c
 /www/lpmuds/style.css
 /save/kills/t/testylus
 /domains/fort/room/tunnel5.c
@@ -7229,12 +7406,14 @@
 /verbs/players/cast.c
 /log/chan/archive/muds-2013.08.10-07.13,15
 /cmds/creators/stargate.c
+/domains/Addell/room/_blank.c
 /lib/mount.c
 /domains/default/npc/pessis.c
 /doc/efun/filesystem/stat
 /log/archive/runtime-2010.07.09-01.16,00
 /save/kills/b/bklmkbeod
 /log/chan/archive/muds-2010.08.23-15.45,48
+/domains/Addell/room/wiz_hall.c
 /doc/efun/interactive/snoop
 /log/chan/archive/muds-2010.08.31-01.45,48
 /news/welcome
@@ -7276,6 +7455,7 @@
 /domains/fort/room/bpath1.c
 /domains/fort/room/common6.c
 /lib/virtual/virt_map.c
+/domains/Addell/room/death.c
 /doc/lfun/lib/clip/SetAmmoType
 /cmds/players/uptime.c
 /secure/cmds/admins/banish.c
@@ -7302,7 +7482,9 @@
 /log/chan/archive/muds-2010.11.01-16.45,48
 /cmds/players/language.c
 /cmds/players/mudlist.c
+/domains/Addell/weap/dagger.c
 /doc/efun/internals/set_debug_level
+/daemon/tmp/MOUTH_LIPPED+MOUTH_FANGED+MOUTH_TONGUED.c
 /log/archive/player_errors-2009.03.10-05.37,18
 /doc/lfun/lib/body/GetLong
 /save/races.1111.o
@@ -7319,6 +7501,7 @@
 /secure/cmds/admins/.router.c.swp
 /log/chan/archive/muds-2010.11.07-17.45,48
 /daemon/tmp/B_ORB.c
+/domains/Addell/obj/rack.c
 /log/chan/archive/muds-2010.11.06-10.45,48
 /verbs/creators/zap.c
 /log/chan/archive/intergossip-2013.07.31-11.13,15
@@ -7414,6 +7597,7 @@
 /doc/efun/all/store_variable
 /shadows/explosive_trap.c
 /save/kills/i/iiahmo
+/domains/Addell/meals/bread.c
 /domains/default/npc/quarantine/trevor.c
 /doc/lfun/all/GetLimbChildren
 /doc/applies/heart_beat
@@ -7483,6 +7667,7 @@
 /log/archive/runtime-2009.10.06-15.42,34
 /domains/default/npc/newt.c
 /domains/campus/txt/ai/charles/bak2/bak1/fred
+/secure/cfg/races/nuar
 /doc/sefun/domain_exists
 /verbs/players/learn.c
 /log/chan/archive/muds-2010.11.10-08.45,48
@@ -7647,6 +7832,7 @@
 /save/kills/c/ckfed
 /save/notify.2222.o
 /save/kills/i/ildfiambdme
+/domains/Addell/obj/cup.c
 /save/kills/x/xkcddbeakckjob
 /log/archive/runtime-2009.03.16-07.30,39
 /domains/Praxis/rain_forest.c
@@ -7669,6 +7855,7 @@
 /domains/campus/obj/magbox.c
 /log/archive/runtime-2011.08.21-10.04,13
 /save/kills/x/xkcdcimhmhneij
+/domains/Addell/etc/_start.c
 /daemon/services/tell.c
 /log/chan/archive/muds-2010.12.06-11.45,48
 /domains/default/doors/test101.c
@@ -7691,6 +7878,7 @@
 /cmds/players/keepalive.c
 /log/chan/archive/dchat-2010.08.25-13.45,48
 /domains/fort/room/south_wall_4.c
+/domains/Roses/room/classhall_fighter.c
 /daemon/include/statistics.h
 /cmds/creators/scan.c
 /secure/daemon/reload.c
@@ -7713,6 +7901,7 @@
 /lib/std/table.c
 /domains/fort/npc/gate_guard.c
 /secure/cfg/groups.cfg
+/domains/Roses/room/merchant_n2.c
 /secure/daemon/tracker.c
 /save/kills/x/xkcdoicgljl
 /domains/campus/txt/ai/charly/bak/runs
@@ -7743,6 +7932,7 @@
 /doc/efun/system/index
 /domains/Praxis/town_hall.c
 /doc/lfun/lib/body/eventWear
+/domains/Roses/room/void.c
 /doc/lfun/all/AddLead
 /www/articles/lpu.html
 /lib/history.c
@@ -7767,6 +7957,7 @@
 /domains/campus/obj/.backpack.c.swp
 /domains/fort/obj/dcell_crappy.c
 /domains/town/save/0^0domains0^0town0^0obj0^0charity.3333.o
+/domains/Addell/armor/necklace.c
 /verbs/items/shake.c
 /domains/Ylsrim/obj/cask.c
 /cmds/creators/transfer.c
@@ -7782,6 +7973,7 @@
 /log/archive/runtime-2009.10.05-14.41,35
 /domains/town/room/wtunnel6.c
 /domains/town/obj/.orc_rucksack.c.swp
+/domains/Addell/meals/beast.c
 /domains/Ylsrim/etc/road.c
 /save/kills/k/km
 /save/kills/k/kl
@@ -7812,6 +8004,7 @@
 /log/chan/archive/muds-2010.11.28-22.45,48
 /log/chan/archive/intergossip-2011.01.10-22.46,55
 /log/chan/archive/inews-2013.07.30-23.13,15
+/domains/Roses/room/parade_e1.c
 /secure/include/global.8888.h
 /log/chan/archive/muds-2010.10.08-05.45,48
 /domains/campus/doors/steel_door.c
@@ -7821,6 +8014,7 @@
 /lib/exits.c
 /save/kills/k/kgidochelje
 /save/kills/j/jcnemk
+/domains/Roses/room/start.c
 /doc/lfun/lib/clay/InitComposition
 /doc/cheats/basics.txt
 /lib/include/pistol.h
@@ -7887,6 +8081,7 @@
 /domains/default/obj/lever.c
 /secure/tmp/slymenstra_CMD_EVAL_TMP_FILE.c
 /domains/town/weap/zpem.c
+/domains/Addell/room/dining1.c
 /www/articles/forum_chat.html
 /www/articles/tacitus2.html
 /domains/town/meals/winebottle.c
@@ -7924,6 +8119,7 @@
 /doc/lfun/lib/connect/eventDestruct
 /log/chan/archive/muds-2009.04.29-17.10,44
 /domains/amigara/room/passage3.c
+/domains/Addell/obj/gate_key.c
 /log/chan/archive/muds-2009.05.14-08.59,29
 /domains/campus/txt/jenny/4.txt
 /doc/lfun/all/GetClan
@@ -8005,6 +8201,7 @@
 /domains/town/save/0^0domains0^0town0^0room0^0secret.o.gz
 /domains/campus/room/corridor2.c
 /doc/lfun/all/GetExtraChannels
+/domains/Roses/meals/fish/fish_beginner_rare.c
 /domains/fort/room/test1.c
 /cmds/creators/.anchor.c.swp
 /log/chan/archive/muds-2009.05.21-09.13,36
@@ -8019,6 +8216,7 @@
 /save/kills/o/ogfng
 /doc/lfun/all/CanLight
 /domains/fort/obj/squirtbag.c
+/domains/Addell/armor/orc_tallboot_r.c
 /log/i3error.2009.05.14-17.56,40
 /log/chan/archive/intergossip-2010.07.14-22.16,17
 /domains/cave/room/cavepass5.c
@@ -8046,6 +8244,7 @@
 /verbs/items/include/drink.h
 /secure/cfg/races/strider
 /domains/fort/room/south_gtower_lower.c
+/domains/Addell/armor/orc_tallboot_l.c
 /doc/lfun/all/GetDrainRate
 /secure/sefun/inventory.c
 /log/chan/archive/muds-2010.11.10-19.45,48
@@ -8185,6 +8384,7 @@
 /domains/fort/obj/fleas.c
 /domains/campus/obj/mlocker.c
 /daemon/include/notify.h
+/domains/Addell/obj/table2.c
 /daemon/tmp/MOUTH_LIPPED+MOUTH_TOOTHED+MOUTH_BEAKED+MOUTH_TONGUED+MOUTH_FANGED.c
 /save/kills/g/gfoabealakh
 /log/chan/archive/inews-2013.08.06-11.13,15
@@ -8203,6 +8403,7 @@
 /domains/campus/txt/ai/charly/bak/percent
 /log/chan/archive/muds-2010.10.07-10.45,48
 /domains/default/weap/prifle.c
+/domains/Addell/npc/orc_soldier.c
 /log/chan/archive/muds-2010.11.08-06.45,48
 /log/chan/archive/muds-2010.08.16-18.45,20
 /domains/campus/txt/ai/charles/fgreen
@@ -8217,6 +8418,7 @@
 /log/chan/archive/muds-2010.10.31-23.45,48
 /domains/town/virtual/sky/25,8,1.c
 /doc/lfun/all/GetAllowSacrifice
+/domains/Addell/obj/bbucket.c
 /log/chan/archive/intergossip-2010.11.24-19.45,48
 /cmds/creators/godmode.c
 /domains/town/obj/.dcell.c.swp
@@ -8237,6 +8439,7 @@
 /save/kills/x/xkcdghgniijdfc
 /save/kills/x/xkcdecc
 /log/archive/i3error-2009.04.30-17.45,50
+/domains/Roses/room/enclave.c
 /save/portal.1111.o
 /cmds/creators/goto.c
 /secure/cmds/admins/chanban.c
@@ -8341,6 +8544,7 @@
 /log/chan/archive/muds-2010.10.16-16.45,48
 /log/chan/archive/muds-2009.04.10-10.28,44
 /domains/campus/txt/ai/charles/bak2/blue_wins
+/domains/Addell/etc/cave.c
 /save/kills/j/jii
 /log/chan/archive/muds-2010.10.24-02.45,48
 /doc/lfun/lib/classes/eventMoralAct
@@ -8361,6 +8565,7 @@
 /verbs/items/load.c
 /secure/sefun/.strings.c.swp
 /log/chan/archive/intergossip-2010.08.16-17.45,20
+/domains/Addell/room/cavepass8.c
 /doc/applies/move_or_destruct
 /log/chan/archive/discworld-chat-2010.11.22-17.45,48
 /save/kills/i/iifnfldh
@@ -8394,6 +8599,7 @@
 /doc/lfun/all/SetFirearmType
 /log/chan/archive/muds-2009.03.28-16.14,40
 /domains/town/txt/map.txt
+/domains/Addell/room/cavepass2.c
 /log/chan/archive/inews-2013.08.15-03.13,15
 /domains/campus/room/sewer3.c
 /log/chan/archive/intergossip-2010.09.24-19.45,48
@@ -8454,6 +8660,7 @@
 /domains/fort/room/fguild.c
 /doc/lfun/lib/interactive/GetLong
 /doc/lfun/lib/genetics/GetBaseStatLevel
+/domains/Roses/room/classhall_mage.c
 /doc/sefun/minutes
 /log/chan/archive/muds-2010.09.23-12.45,48
 /domains/town/virtual/sky/23,10,1.c
@@ -8476,6 +8683,7 @@
 /save/kills/c/cifmenlj
 /log/chan/archive/intergossip-2010.07.14-20.16,17
 /domains/Praxis/mountains/entrance.c
+/domains/Roses/room/wall_w1.c
 /doc/efun/filesystem/rm
 /www/router.html
 /doc/lfun/all/performMarriage
@@ -8486,6 +8694,7 @@
 /log/chan/archive/sport-2013.08.26-08.13,15
 /log/chan/archive/muds-2010.12.15-14.45,48
 /doc/efun/interactive/set_this_player
+/daemon/tmp/PHYS_DAMAGE.c
 /save/services.3333.o
 /save/kills/n/njobgdcfc
 /cmds/players/colors.c
