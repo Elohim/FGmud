@@ -1,6 +1,6 @@
 #/secure/daemon/players.c
 PlayerDataMap ([])
-UserData ([])
+UserData (["elohim":(["CreatorBirth":1434921434,"RealName":"Nestor S. Sanchez","LoginTime":1489852918,"HostSite":"70.138.193.240","Age":103056,"CreatorAge":0,"BirthTime":1434921394,"Email":"elohim@technocratia.com",]),"guest":(["CreatorBirth":0,"RealName":"Unknown","LoginTime":1242677746,"HostSite":"127.0.0.1","Age":0,"CreatorAge":0,"BirthTime":1242059073,"Email":"@",]),])
 PendingEncres ({})
 PendingDecres ({})
 PendingPauses ({})

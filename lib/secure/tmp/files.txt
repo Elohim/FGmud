@@ -1260,6 +1260,7 @@
 /verbs/players/include/party.h
 /daemon/tmp/cavetroll.c
 /log/chan/archive/muds-2010.12.24-15.45,48
+/www/info.php
 /secure/obj/machine.c
 /doc/lfun/lib/creator/eventReconnect
 /doc/efun/all/cp
@@ -1914,6 +1915,7 @@
 /doc/lfun/lib/race/eventDie
 /doc/lfun/lib/race/GetHeartRate
 /doc/lfun/lib/client/eventDestruct
+/www/index.html.old
 /shadows/rocketpack.c
 /secure/daemon/portal.c
 /secure/daemon/imc2server/server_log.h
@@ -3840,6 +3842,7 @@
 /log/chan/archive/intergossip-2010.07.27-15.17,46
 /domains/town/virtual/surface.c
 /log/archive/currency-2011.01.11-08.46,55
+/log/archive/catch-2017.03.07-18.25,59
 /doc/lfun/all/GetReligion
 /log/chan/archive/dchat-2010.11.30-13.45,48
 /domains/cave/room/cave.c
@@ -6071,6 +6074,7 @@
 /lib/player.c
 /domains/amigara/room/passage26.c
 /domains/campus/obj/abox.c
+/www/index.php
 /secure/daemon/i3router/blacklist.cfg
 /domains/town/armor/pants.c
 /doc/lfun/all/SetFuelRequired
@@ -6385,6 +6389,7 @@
 /secure/cfg/races/bat
 /log/chan/archive/dchat-2010.12.02-17.45,48
 /domains/default/armor/pcannon.c
+/log/archive/reset-2017.03.25-14.52,02
 /daemon/tmp/MOUTH_TOOTHED+MOUTH_FANGED.c
 /secure/scripts/sky.lsed
 /verbs/items/include/throw.h

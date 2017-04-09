@@ -4,3 +4,27 @@ DeadSoulsNew crashed Sun Jun 21 16:11:13 2015 with error Process interrupted.
 1:OBJ(/secure/daemon/master), file: /secure/daemon/master.c, fun: crash, origin: driver
 ({ })
 ---
+Forgotten-Gods crashed Tue Mar  7 23:24:56 2017 with error Process interrupted.
+
+0:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: get_stack, origin: simul
+1:OBJ(/secure/daemon/master), file: /secure/daemon/master.c, fun: crash, origin: driver
+({ })
+---
+Forgotten-Gods crashed Fri Mar 10 21:31:53 2017 with error Process terminated.
+
+0:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: get_stack, origin: simul
+1:OBJ(/secure/daemon/master), file: /secure/daemon/master.c, fun: crash, origin: driver
+2:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: base_name, origin: local
+3:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: <function>, origin: functional
+4:OBJ(/secure/sefun/sefun), file: /<driver>, fun: <function>, origin: function pointer
+5:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: reap_other, origin: simul
+6:OBJ(/secure/daemon/reaper), file: /secure/daemon/reaper.c, fun: eventReap, origin: local
+7:OBJ(/secure/daemon/reaper), file: /<driver>, fun: <function>, origin: function pointer
+({ OBJ(/secure/sefun/sefun), OBJ(/secure/sefun/sefun), OBJ(/secure/daemon/reaper) })
+---
+Forgotten-Gods crashed Sat Apr  8 10:27:43 2017 with error Process terminated.
+
+0:OBJ(/secure/sefun/sefun), file: /secure/sefun/sefun.c, fun: get_stack, origin: simul
+1:OBJ(/secure/daemon/master), file: /secure/daemon/master.c, fun: crash, origin: driver
+({ })
+---

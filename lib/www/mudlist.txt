@@ -1,86 +1,109 @@
-2015.06.21-18.23,26
-Forgotten-Gods recognizes eighty-three muds matching your query: 
+2017.04.09-08.00,48
+Forgotten-Gods recognizes one hundred and six muds matching your query: 
 
-10th Axiom RPG  Coffee CoffeeMud v5.8. CoffeeMud v5.8.2   192.252.213.24 5555
+6Dragons        Smaug  I3 Driver 2.40b 6Dragons 4.4       198.50.175.150 4100
 7thplane        n/a    IMC2 client     IMC2 Freedom CL-2. 50.116.28.114 8888
-Aadarian_Realms DikuMU Aadaria I3 Driv ADR 4.31 (build: 2 178.79.173.99 1111
-Aadarian_Realms DikuMU Aadaria I3 Driv ADR 4.31 (build: 2 178.79.173.99 1112
-Aftermath RPG   Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   67.185.180.85 5555
-Anarchia        LPMud  FluffOS v2.23-d Dead Souls 3.8.6   192.235.78.163 6666
+A.hegy          LPMud  FluffOS v2.23-d Dead Souls 3.6     80.98.10.165 1221
+Aadarian_Realms DikuMU Aadaria I3 Driv ADR 4.63 (build: 2 178.79.173.99 1111
+Adaka           Coffee CoffeeMud v5.8. CoffeeMud v5.8.0.1 188.62.26.88 5555
+Aftermath RPG   Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   73.221.145.136 5555
+Age of Dragons  Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   63.142.250.229 4500
+Allegiances Unb Coffee CoffeeMud v5.9. CoffeeMud v5.9.1   66.85.147.90 1234
 Archipelago     LPMud  MudOS v22.1b23- Discworld 15.0a    88.97.75.68 8000
-BalanceMUD      Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   70.114.144.227 5555
-Bloodlines      LPMud  FluffOS v2.27   Dead Souls 3.6     71.89.162.105 5000
-Boldhome        Coffee CoffeeMud v5.8. CoffeeMud v5.8.0   104.54.230.37 1984
-Chaos Reigns    LPMud  FluffOS v2.23-d Dead Souls 3.8.6   172.245.108.43 6666
-CoffeeMud       Coffee CoffeeMud v5.8. CoffeeMud v5.8.5.3 104.9.129.1 443
+Ardneh's World  LPMud  FluffOS v2.23-d Dead Souls 3.7a7   173.27.11.145 3456
+AsYetUntitled   LPMud  FluffOS v2.23-d Dead Souls 3.8.6   178.62.73.229 6666
+BLOCKS          Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   195.176.29.132 5555
+BlackDawn       LPMud  FluffOS v2.27.1 BlackDawn II       144.139.132.92 1701
+Bratwurst       LPMud  FluffOS v2.23-d Dead Souls 3.8.6   104.159.174.199 6666
+CoffeeMud       Coffee CoffeeMud v5.9. CoffeeMud v5.9.4.8 104.14.28.106 2323
+CoffeeMudPT     Coffee CoffeeMud v5.9. CoffeeMud v5.9.4.8 104.14.28.106 5555
 Core MUD        LPMud  MudOS v22.2b14  Colony 1.3         173.193.107.10 4000
 Crat's Agony    LPMud  FluffOS v2.27   Dead Souls 3.8.1   138.91.79.81 6666
-Dark City       DikuMU AFKMud I3 Drive GodWars: Dark City 178.79.173.99 3000
-DarkeMUDDS      LPMud  FluffOS v2.23-d Dead Souls 3.8.6   70.91.186.149 5659
-Darkmaze        LPMud  FluffOS v2.23-d Dead Souls 3.8.1   219.89.124.52 6900
+Crumpets        Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   217.160.108.60 5555
+Cyprus          Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   168.235.78.14 5555
+DOGL            WebMud DGD 1.5.5       DOGL Development   203.143.89.215 0
+DSLocalMud      LPMud  FluffOS v2.23-d Dead Souls 3.8.2   71.175.180.199 6666
+Dark Ruins      LPMud  FluffOS v2.23-d Dead Souls 3.8.6   138.197.27.13 3000
+DarkeMUDDS      LPMud  FluffOS v2.23-d Dead Souls 3.8.6   50.196.25.197 5659
+Darkmaze        LPMud  FluffOS v2.23-d Dead Souls 3.8.1   222.154.243.2 6900
 Darkness and De LPMud  FluffOS v2.9-ds Nightmare+DnD      204.10.33.129 4201
 Dead Souls Dev  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   97.107.133.86 8000
-Dead_Pariahs_So LPMud  FluffOS v2.23-d Dead Souls 3.8.1   74.109.13.189 10206
-Dead_Souls_ratb LPMud  FluffOS v2.18-d Dead Souls 3.0     24.68.234.61 6666
-Dead_Souls_vaca LPMud  FluffOS v2.23-d Dead Souls 3.8.6   104.236.100.11 6666
+Dead_Souls_djte LPMud  FluffOS v2.23-d Dead Souls 3.8.2   77.2.221.171 6666
+Dead_Souls_jago LPMud  FluffOS v2.23-d Dead Souls 3.8.6   59.167.21.65 6666
+Dead_Souls_pleh LPMud  FluffOS v2.23-d Dead Souls 3.8.2   35.156.94.131 6666
 Discworld       LPMud  FluffOS v2.27   Discworld 18.0a    82.68.167.69 23
-Egrera Quest    Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   104.236.216.100 23
-Enchanted World Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   66.23.238.114 5555
-Epitaph         LPMud  FluffOS v2.26 ( Epiphany v1.1.2 [r 176.126.244.21 23
-Epitaph Black O LPMud  FluffOS v2.26 ( Epiphany v1.1.3 [d 176.126.244.68 6789
-Epitaph Skunkwo LPMud  FluffOS v2.26 ( Epiphany v1.1.1 [e 185.47.61.138 6789
+DozysDen        Coffee CoffeeMud v5.9. CoffeeMud v5.9.4.8 142.161.179.202 5555
+Dragon's Den    LPMud  MudOS v22.2b14  Dragon Mudlib 1.1  74.109.126.27 2222
+Echoes of Pande LPMud  FluffOS v2.23-d Dead Souls 3.8.6   155.94.213.73 2222
+Economic Collap Smaug  AFKMud I3 Drive ResortMUD 6.0      108.92.171.117 4100
+Empire Galaxy   Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   24.202.17.48 5555
+EmpiresEnd      Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   73.244.33.207 5555
+Epitaph         LPMud  FluffOS v2.26 ( Epiphany v1.2.13 [ 176.126.244.21 23
+Epitaph Black O LPMud  FluffOS v2.26 ( Epiphany v1.2.13 [ 176.126.244.68 6789
 Epitaph_Black_O                                           176.126.244.68 0
-Epitaph_Skunkwo                                           185.47.61.138 0
-Eternal-Chaos   LPMud  FluffOS v2.23-d Dead Souls 3.8.2   87.91.43.18 6666
-Etheria         LPMud  FluffOS v2.23-d Dead Souls 3.8.6   52.24.28.96 6666
+EternuMUD       Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   138.197.83.150 5555
+Evermore        LDMud  LDMud 3.5.0.3-4 EverLIB 3.0.0      93.186.192.146 23
+Fantastic_MUD   LPMud  FluffOS v2.23-d Dead Souls 3.8.6   92.249.131.157 6660
+Farting Fuhrer' LPMud  FluffOS v2.23-d Dead Souls 3.8.6   82.6.140.35 6666
+Fenog`s Lodge   Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   50.98.172.229 5555
 Final Realms    LPMud  FluffOS v2.23   FRlib IV           87.238.35.142 4001
-Forgotten-Gods  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   70.138.193.240 6690
+Forgotten-Gods  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   50.16.129.211 6690
 Frontiers       LPMud  FluffOS v2.15-d Dead Souls 2.10    204.209.44.3 8000
+HackerMUD_test  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   50.66.45.43 1335
 Haven           LPMud  FluffOS v2.9-ds Haven 0.1          23.253.225.109 5000
-Hebdovia        Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   216.16.139.90 5555
-Hollowworld MUD Coffee CoffeeMud v5.8. CoffeeMud v5.8.0.1 198.178.120.144 5555
-Iberia MUD      IME    IME             IME v0.996b        85.138.112.144 5900
-John`s Happy MU Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   70.59.167.250 5555
+Heroes Doom     Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   173.255.253.93 5555
+I3-TheMud-ORG   LPMud  FluffOS v2.23-B Dead Souls 3.8.6   144.139.132.92 5555
+Iberia MUD      IME    IME             IME v0.996b        2.82.176.58 5900
 JustAMud        LPMud  FluffOS v2.23-d Dead Souls 3.8.6   104.236.139.209 4321
-KerZhawMUD      LPMud  FluffOS v2.23-d Dead Souls 3.6     210.54.213.181 6666
-Lights Out      Coffee CoffeeMud v5.8. CoffeeMud v5.8.5.2 66.85.147.85 9995
-Lunatic Pandora Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   67.55.0.126 5555
-MUDpi           Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   174.101.93.111 5555
-Meekpitaph Blac LPMud  FluffOS v2.26 ( Epiphany v1.1.3 [d 176.126.244.68 6789
-Mindrail        LPMud  FluffOS v2.23-d Dead Souls 3.8.2   139.162.23.107 2222
-Mythos - Tales  Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   69.55.125.41 5555
-Nanvaent        LP     NANVAENT 3 (Flu Nanvaent V.4ish    73.199.112.184 3000
+KogelgatenwegDe LPMud  FluffOS v2.23-d Dead Souls 3.8.2   82.161.238.117 6666
+Languid Dreams  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   73.96.137.175 6670
+Leogravion      Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   138.197.146.226 5555
+Lords and Legen Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   108.92.171.117 4000
+Lovers Liars An Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   45.33.64.28 2222
+MUDgaard        Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   99.192.80.30 5555
+Monster 2.0 Dev LPMud  DGD 1.5.3       MonsterLib 1.0     138.91.79.81 60047
+Mudcraft.Kreezc LPMud  DGD 1.5.5       GurbaLib v0.50     192.3.196.14 4000
+Nanvaent        LP     NANVAENT 3 (Flu Nanvaent V.4ish    76.117.16.125 3000
 Nightfall       LPMud  LPMud 3.3.720   NF                 94.23.250.24 4242
-Nightmare IVr6  LPMud  FluffOS v2.9-ds Nightmare IVr6     104.229.34.245 7777
-No Name Yet     LPMud  FluffOS v2.23-d Dead Souls 3.8.6   64.20.56.34 1234
-Planes of Peril LPMud  FluffOS v2.23-d Dead Souls 3.8.6   50.43.92.134 6666
-PocketMUD       Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   198.58.122.63 5555
-Psipocalypse    Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   167.114.96.104 5555
-Realms of Forgo Coffee CoffeeMud v5.8. CoffeeMud v5.8.4   24.222.84.75 5555
-SWmud           LPMud  FluffOS 3.0-alp SWmud Mudlib 1.0   173.230.133.108 6666
-Sands_of_Solari n/a    IMC2 client     Battlesnake        50.116.40.87 5555
+Pilgrim Mud     Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   50.112.34.165 5555
+Railworks MUD   Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   107.189.38.119 5585
+RainMUD         Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   35.163.192.24 5555
+Realm of Cernun Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   184.20.19.120 5555
+Rebirth         LPMud  FluffOS v2.23-d Dead Souls 3.7a7   173.23.64.51 6666
+Return to Forev Coffee CoffeeMud v5.9. CoffeeMud v5.9.3   149.56.99.195 5555
+Sarlana Origins Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   198.245.49.133 5555
 Second Contract LPMud  FluffOS v2.23-d Dead Souls 3.6     54.84.108.226 6666
-ShadowMUD       LP     FluffOS v2.26.1 Nightmare/ShadowLi 199.74.141.8 1030
-ShadowMUDii Dev LP     FluffOS v2.26.1 Nightmare/ShadowLi 199.74.141.8 1035
-Shadows of the  DikuMU AFKMud I3 Drive GodWars Deluxe     66.85.147.85 3560
-SirDudesGurbaLi LPMud  DGD 1.5.2       GurbaLib v0.50     184.100.104.81 4000
-SithWars        n/a    IMC2 client     IMC2 Freedom CL-2. 97.107.132.7 2070
-SoulRuins       Smaug  AFKMud I3 Drive ResortMUD 4.0b     24.96.7.39 5000
+ShadowMUD       LP     FluffOS v2.27   Nightmare/ShadowLi 199.74.141.8 1030
+ShadowMUDii Dev LP     FluffOS v2.27   Nightmare/ShadowLi 199.74.141.8 1035
+Shattered Realm LPMud  FluffOS v2.22-s SR v2.1            84.209.178.147 4001
+SilverMUD       Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   78.46.233.162 5555
+SirduesGurbaLib LPMud  DGD 1.5.5       GurbaLib v0.50     63.231.163.85 4000
 Split Infinity  LPMud  MudOS v22.2b14  Nightmare IVr4     131.155.141.70 4000
-Star Wars: Jedi SWR    AFKMud I3 Drive SWJvS 1.3.8        24.222.84.75 8707
+StreetQuest     LPMud  FluffOS v2.23-d Dead Souls 3.8.6   173.240.110.91 7000
+Supra           LPMud  FluffOS v2.23-d Dead Souls 3.8.6   50.66.45.43 6666
+SwagWorld       Coffee CoffeeMud v5.9. CoffeeMud v5.9.3   185.92.223.165 5555
+SwitchMUD       Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   192.99.175.36 5555
+The Battered La LPMud  FluffOS v2.23-d Dead Souls 3.8.6   47.220.153.72 6666
+The Brass Ring  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   71.244.201.3 2150
+The Lost Fates  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   159.203.94.205 2350
+The Lost Fates  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   159.203.94.205 6666
+The Realm       Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   170.75.163.143 5555
+The Road        Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   192.182.131.206 5555
 The Savage Soul LPMud  FluffOS v2.23-d Dead Souls 3.7a7   173.255.210.234 6666
-The Savage Soul LPMud  FluffOS v2.23-d Dead Souls 3.7a7   173.255.210.234 6667
-The Walking Dea LPMud  FluffOS v2.23-d Dead Souls 3.8.2   37.72.100.21 4000
-TimMUD          LPmud  MudOS v21.7a10  Tmi-2 1.4          207.210.217.204 4444
-Tolgath         Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   107.170.199.38 5555
-Ulario          DGD    DGD 1.5.2       Kotaka             66.189.212.220 50000
-Valerion        Coffee CoffeeMud v5.8. CoffeeMud v5.8.4   54.172.187.23 5555
+The Ulster Cycl Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   74.207.246.85 5555
+Tolgath         Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   184.166.2.82 5555
+Ulario          DGD    DGD 1.5.5       Kotaka             47.36.129.73 50000
+VarBisAgo.mud   Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   82.223.37.187 5555
+War of Legend   DikuMU AFKMud I3 Drive WoL                178.79.173.99 4200
 Way of the Forc LPMud  DGD 1.2.157-WOT WOTFlib 0.90       195.242.99.94 23
-XGM Mud         Coffee CoffeeMud v5.8. CoffeeMud v5.8.2   50.26.213.54 5555
-Your Muds Name  Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   209.59.162.185 5555
-Zombie Town     LPMud  FluffOS v2.23-d Dead Souls 3.8.6   37.187.113.196 9997
-iCashMud        Coffee CoffeeMud v5.8. CoffeeMud v5.8.5.3 108.61.198.249 5555
-test            Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   199.217.112.160 5555
-tmpToninnoTest  LPMud  FluffOS v2.23-d Dead Souls 3.8.6   80.99.181.230 6666
-united          Coffee CoffeeMud v5.8. CoffeeMud v5.8.5   46.101.10.229 5555
-¤@­Ó¦nªd¤Ú      LPMud  FluffOS v2.23-d Dead Souls 3.8.1   220.130.45.196 6666
+WileyMUD        DikuMU I3 Driver 2.40b WileyMUD III 1.449 71.89.162.105 3000
+World of Narnia Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   23.235.207.79 7777
+World of Sango  LPMud  FluffOS v2.23-d Dead Souls 3.8.1   139.162.78.94 6666
+aeros           LPMud  FluffOS v2.23-d Dead Souls 3.8.6   159.203.186.152 6666
+bytebreaker     LPMud  FluffOS v2.23-d Dead Souls 3.8.2   95.85.7.83 6666
+lpcdb           LPMud  DGD 1.5.4       lpcdb v1.0 alpha 2 195.242.99.94 4000
+lpcdb-dev       LPMud  DGD 1.5.5       lpcdb v1.0 alpha 2 87.212.141.117 5000
+mud.seatonserve LPMud  FluffOS v2.23-d Dead Souls 3.8.2   65.103.157.31 6666
+savageisle      Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   23.25.8.124 5559
+walkran         Coffee CoffeeMud v5.9. CoffeeMud v5.9.4   176.56.238.185 5555
+xanaMUD         LPMud  FluffOS v2.23-d Dead Souls 3.8.6   54.200.196.35 9999
